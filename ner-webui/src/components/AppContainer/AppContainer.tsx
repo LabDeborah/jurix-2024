@@ -7,30 +7,61 @@ function AppConainer() {
     const [items, setItems] = React.useState<Item[]>([]);
 
     return (
-        <div className='app-container-style'>
-            <CustomTextArea />
+        <div className='row-container-style'>
+            <div className='column-container-style' style={{'flex': 2}}>
+                <CustomTextArea />
 
-            <select name="tags" id="tags">
-                <option value="TIPO_DE_RECURSO">Tipo de Recurso</option>
-                <option value="ASSUNTO">Assunto</option>
-                <option value="FUNDAMENTACAO">Fundamentação</option>
-                <option value="RESULTADO_DO_JULGAMENTO">Resultado do Julgamento</option>
-            </select>
+                <select name="tags" id="tags">
+                    <option value="TIPO_DE_RECURSO">Tipo de Recurso</option>
+                    <option value="ASSUNTO">Assunto</option>
+                    <option value="FUNDAMENTACAO">Fundamentação</option>
+                    <option value="RESULTADO_DO_JULGAMENTO">Resultado do Julgamento</option>
+                </select>
 
-            <button className='button-style'
-                onClick={() => {
-                    setItems([...items, getCharacterIndexes()]);
-                }}
-                onMouseDown={e => {
-                    e = e || window.event;
-                    e.preventDefault();
-                }}>
-                Get coordinates
-            </button>
+                <div className='row-container-style' style={{'height': 'unset', 'gap': '20px'}}>
+                    <button className='button-style'
+                        onClick={() => {
+                            const newItem = getCharacterIndexes()
+                            if (newItem != null)
+                                setItems([...items, newItem]);
+                        }}
+                        onMouseDown={e => {
+                            e = e || window.event;
+                            e.preventDefault();
+                        }}>
+                        Tag Item
+                    </button>
 
-            <button className='button-style' onClick={() => downloadItems(items)}>
-                Download JSON
-            </button>
+                    <button className='button-style'
+                        onClick={() => {
+                            setItems([]);
+                        }}>
+                        Clear Item List
+                    </button>
+                </div>
+
+                <button className='button-style' onClick={() => downloadItems(items)}>
+                    Download JSON
+                </button>
+            </div>
+
+            <div className='column-container-style' style={{'flex': 1}}>
+                <p>Extracted Items</p>
+
+                <ul id='items-collection' className='items-collection'>
+                    { 
+                        items.map(item => {
+                            return (
+                                <li style={{'margin': '30px 0'}}>
+                                    <div style={{'display': 'flex', 'flexDirection': 'column'}}>
+                                        { item['selected-text'] } - { item['type'] } - { item['start'] }..{ item['end'] }
+                                    </div>
+                                </li>
+                            );
+                        })
+                    }
+                </ul>
+            </div>
         </div>
     )
 }
@@ -59,10 +90,20 @@ function downloadItems(items: Item[]): void {
     URL.revokeObjectURL(href);
 }
 
-function getCharacterIndexes(): Item {
+function getCharacterIndexes(): Item | null {
     const txtarea = (document.activeElement as HTMLTextAreaElement);
     const combobox = (document.getElementById('tags') as HTMLSelectElement);
 
+    if (txtarea.value == "" || txtarea.selectionStart == txtarea.selectionEnd) {
+        return null;
+    }
+
+    console.log('not null');
+
+    console.log(txtarea.value);
+    console.log(txtarea.selectionStart);
+    console.log(txtarea.selectionEnd);    
+    
     return {
         'selected-text': txtarea.value.substring(
             txtarea.selectionStart,

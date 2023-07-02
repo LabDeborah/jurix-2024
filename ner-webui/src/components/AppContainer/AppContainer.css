@@ -1,9 +1,17 @@
-.app-container-style {
+.row-container-style {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100vh;
+    background: #ccc;
+    justify-content: center;
+}
+
+.column-container-style {
     display: flex;
     flex-direction: column;
     width: 100%;
     height: 100vh;
-    background: #ccc;
 
     justify-content: center;
     align-items: center;
@@ -17,4 +25,9 @@
 
     padding-top: 5px;
     padding-bottom: 5px;
+}
+
+.items-collection {
+    display: inline-block;
+    text-align: left;
 }
