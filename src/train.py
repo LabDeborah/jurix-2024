@@ -1,51 +1,89 @@
+import json
+import os
 import random
 import spacy
 from spacy.util import minibatch, compounding
-from spacy.training import Example
 
-# Create a new spaCy project
-nlp = spacy.blank("pt")
+def get_train_data():
+    dir = './train-data'
+    dataset = []
 
-def train(text: str):
-    TRAIN_DATA = [
-        (text, 
-        {
-            "entities": 
-                [
-                    (0, 10, "TIPO_DE_RECURSO"),   # PEDIDO DE UNIFORMIZAÇÃO NACIONAL
-                    # (5, 12, "TIPO_DE_PECA"),      # PETIÇÃO DE CHAMAMENTO DO FEITO À ORDEM
-                ],
-        })
-    ]
+    for filename in os.listdir(dir):
+        path = os.path.join(dir, filename)
+        # checking if it is a file
+        if os.path.isfile(path):
+            f = open(path, encoding="utf8")
+            data = json.load(f)
 
-    # Add entities to model
-    for annotation in TRAIN_DATA:
-        (_, entities) = annotation
+            entities = []
 
-        for entry in entities.get("entities"):
-            nlp.vocab.strings.add(entry[2])
+            for item in data['items']:
+                entities.append(
+                    (item['start'], item['end'], item['type'])
+                )
 
-    # Begin training
+            dataset.append(
+                [data['source'], {
+                    'entities': entities
+                }]
+            )
+    
+    return dataset
+
+def train():
+    TRAIN_DATA = get_train_data()
+
+    n_iter = 10
+    random.seed(0)
+
+    # Create blank model
+    nlp = spacy.blank('pt')
+    # nlp = spacy.load('pt_core_news_sm')
+
+    ner = None
+
+    # Get ner pipeline component (create if necessary)
+    if "ner" not in nlp.pipe_names:
+        ner = nlp.create_pipe("ner")
+        nlp.add_pipe(ner)
+    else:
+        ner = nlp.get_pipe("ner")
+
+    # Add new entity labels to entity recognizer
+    labels = []
+    for (_, entities) in TRAIN_DATA:
+        e = entities['entities']
+        [labels.append(entity[2]) for entity in e]
+    labels = set(labels)
+    [ner.add_label(l) for l in labels]
+
+    # Set optimizer
     optimizer = nlp.begin_training()
+    # optimizer = nlp.resume_training()
 
-    losses = {}
-    random.shuffle(TRAIN_DATA)
-    batches = minibatch(TRAIN_DATA, size=compounding(4.0, 32.0, 1.001))
+    move_names = list(ner.move_names)
 
-    for batch in batches:
-        texts, annotations = zip(*batch)
-        
-        example = []
-        # Update the model with iterating each text
-        for i in range(len(texts)):
-            doc = nlp.make_doc(texts[i])
-            example.append(Example.from_dict(doc, annotations[i]))
-        
-        # Update the model
-        nlp.update(example, drop=0.5, losses=losses)
+    # Get names of other pipes to disable them during training
+    other_pipes = [pipe for pipe in nlp.pipe_names if pipe != "ner"]
 
-train("RECLAMAÇÃO. BENEFÍCIO ASSISTENCIAL. RECEBIMENTO A MAIOR. DEVOLUÇÃO DETERMINADA EM PROCESSO JUDICIAL ANTERIOR. ADEQUAÇÃO AO TEMA 979 DO STJ. ÓBICE À APLICAÇÃO ANTE A EXISTÊNCIA DE COISA JULGADA. DISTINGUISHING APTO A ENSEJAR A MANUTENÇÃO DO ACÓRDÃO. VIOLAÇÃO À AUTORIDADE DE DECISÃO DA TNU NÃO VERIFICADA. RECLAMAÇÃO CONHECIDA E DESPROVIDA.")
-train("RECLAMAÇÃO. INSURGÊNCIA CONTRA DECISÃO DO JUÍZO PRELIMINAR DE ADMISSIBILIDADE NA ORIGEM. NÃO CABIMENTO DA RECLAMAÇÃO, NOS TERMOS DO ARTIGO 41, II, DO RITNU. INICIAL INDEFERIDA.")
+    # Only train NER pipe
+    with nlp.disable_pipes(*other_pipes):
+        # Process our training examples in iterations using shuffle, batches, and dropouts
+        sizes = compounding(1, 16, 1.001)
+        for itn in range(n_iter):
+            random.shuffle(TRAIN_DATA)
+            batches = minibatch(TRAIN_DATA, size=sizes)
+            losses = {}
+            for batch in batches:
+                texts, annotations = zip(*batch)
+                # For each example, nlp.update steps through the words of the input 
+                # At each word, it makes a prediction on the text and checks the annotations 
+                # If it was wrong, it adjusts its weights
+                nlp.update(texts, annotations, sgd=optimizer, drop=0.2, losses=losses)
+            print("Losses", losses)
 
-# Save model to disk
-nlp.to_disk("pt_juridic")
+    # Save model to output directory
+    nlp.meta["name"] = "juridic"
+    nlp.to_disk('models/juridic')
+
+train()
