@@ -11,7 +11,7 @@ def get_train_data():
     for filename in os.listdir(dir):
         path = os.path.join(dir, filename)
         # checking if it is a file
-        if os.path.isfile(path):
+        if os.path.isfile(path) and filename != '.DS_Store':
             f = open(path, encoding="utf8")
             data = json.load(f)
 

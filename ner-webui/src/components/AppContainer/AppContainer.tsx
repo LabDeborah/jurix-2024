@@ -12,10 +12,16 @@ function AppConainer() {
                 <CustomTextArea />
 
                 <select name="tags" id="tags">
-                    <option value="TIPO_DE_RECURSO">Tipo de Recurso</option>
-                    <option value="ASSUNTO">Assunto</option>
-                    <option value="FUNDAMENTACAO">Fundamentação</option>
-                    <option value="RESULTADO_DO_JULGAMENTO">Resultado do Julgamento</option>
+                    <option value="SUBJECT">Type of Appeal</option>
+                    <option value="SUBJECT">Subject</option>
+                    <option value="RATIO_DECIDENDI">Ratio Decidendi</option>
+                    
+                    <option value="NOT_HEARD">Not Heard</option>
+                    <option value="SUSPENDED">Suspended</option>
+                    <option value="NOT_ENTERTAINED">Not Entertained</option>
+                    <option value="GRANTED_TO_REVOKE">Granted to Revoke</option>
+                    <option value="NOT_GRANTED">Not Granted</option>
+                    <option value="GRANTED_AND_INDICATED">Granted and Indicated to Affect Theme</option>
                 </select>
 
                 <div className='row-container-style' style={{'height': 'unset', 'gap': '20px'}}>

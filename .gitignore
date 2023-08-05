@@ -164,3 +164,6 @@ models/
 
 # Output json file for comparison
 output.json
+
+# macOS
+.DS_Store
