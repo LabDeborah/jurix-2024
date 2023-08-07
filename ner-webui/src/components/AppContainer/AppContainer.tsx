@@ -12,7 +12,7 @@ function AppConainer() {
                 <CustomTextArea />
 
                 <select name="tags" id="tags">
-                    <option value="SUBJECT">Type of Appeal</option>
+                    <option value="TYPE_OF_APPEAL">Type of Appeal</option>
                     <option value="SUBJECT">Subject</option>
                     <option value="RATIO_DECIDENDI">Ratio Decidendi</option>
                     

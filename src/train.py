@@ -61,8 +61,6 @@ def train():
     optimizer = nlp.begin_training()
     # optimizer = nlp.resume_training()
 
-    move_names = list(ner.move_names)
-
     # Get names of other pipes to disable them during training
     other_pipes = [pipe for pipe in nlp.pipe_names if pipe != "ner"]
 
