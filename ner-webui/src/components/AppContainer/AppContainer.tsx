@@ -12,16 +12,17 @@ function AppConainer() {
                 <CustomTextArea />
 
                 <select name="tags" id="tags">
-                    <option value="TYPE_OF_APPEAL">Type of Appeal</option>
+                    <option value="TYPE_OF_APPEAL">Type of Appeal - Request for Standardization</option>
                     <option value="SUBJECT">Subject</option>
                     <option value="RATIO_DECIDENDI">Ratio Decidendi</option>
                     
-                    <option value="NOT_HEARD">Not Heard</option>
-                    <option value="SUSPENDED">Suspended</option>
-                    <option value="NOT_ENTERTAINED">Not Entertained</option>
-                    <option value="GRANTED_TO_REVOKE">Granted to Revoke</option>
-                    <option value="NOT_GRANTED">Not Granted</option>
-                    <option value="GRANTED_AND_INDICATED">Granted and Indicated to Affect Theme</option>
+                    <option value="NOT_HEARD">Not Heard RS by TNU</option>
+                    <option value="SUSPENDED">Suspended RS by TNU</option>
+                    <option value="NOT_ENTERTAINED">Not Entertained RS by TNU</option>
+                    <option value="GRANTED_TO_REVOKE">RS Granted to Revoke Decision by TNU</option>
+                    <option value="NOT_GRANTED">Not Granted RS by TNU</option>
+                    <option value="GRANTED">Granted RS by TNU</option>
+                    <option value="GRANTED_AND_INDICATED">RS Granted and Indicated to Affect Theme by TNU</option>
                 </select>
 
                 <div className='row-container-style' style={{'height': 'unset', 'gap': '20px'}}>
