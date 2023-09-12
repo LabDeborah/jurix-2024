@@ -159,11 +159,9 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-# Models directory
+# Models directory and dataset directory
 models/
-
-# Output json file for comparison
-output.json
+dataset/
 
 # macOS
 .DS_Store
