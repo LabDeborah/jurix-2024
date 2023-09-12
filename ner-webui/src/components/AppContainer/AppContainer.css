@@ -5,13 +5,21 @@
     height: 100vh;
     background: #ccc;
     justify-content: center;
+    align-items: center;
+}
+
+.text-area-style {
+    width: 100%;
+    height: 100%;
+
+    resize: none;
 }
 
 .column-container-style {
     display: flex;
     flex-direction: column;
     width: 100%;
-    height: 100vh;
+    height: 80vh;
 
     justify-content: center;
     align-items: center;

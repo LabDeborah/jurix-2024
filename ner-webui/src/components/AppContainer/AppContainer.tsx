@@ -1,22 +1,66 @@
 import * as React from 'react';
 import './AppContainer.css';
 
-import CustomTextArea from '../CustomTextArea/CustomTextArea';
+import { GlobalHotKeys, configure } from 'react-hotkeys';
 
 function AppConainer() {
     const [items, setItems] = React.useState<Item[]>([]);
 
+    configure({
+        ignoreTags: ['textarea'],
+        ignoreEventsCondition: (_) => false
+    })
+
     return (
         <div className='row-container-style'>
-            <div className='column-container-style' style={{'flex': 2}}>
-                <CustomTextArea />
+            <div className='column-container-style' style={{ 'flex': 2 }}>
+                <GlobalHotKeys
+                    allowChanges={true}
+                    style={{ 'height': '33%', 'width': '80%' }}
+                    keyMap={{
+                        'TOGGLE_TAG': ['ctrl+shift+j'],
+                        'TAG_ITEM': ['ctrl+shift+k'],
+                        'CLEAR_LIST': ['ctrl+shift+l'],
+                        'CLEAR_LAST': ['ctrl+shift+h'],
+                        'DOWNLOAD_LIST': ['ctrl+shift+space']
+                    }}
+                    handlers={{
+                        'TOGGLE_TAG': (_) => {
+                            let select = document.getElementById('tags') as HTMLSelectElement;
+                            const length = select.options.length;
+                            select.selectedIndex = select.selectedIndex == length
+                                ? 0
+                                : select.selectedIndex + 1;
+                        },
+                        'TAG_ITEM': (_) => {
+                            const newItem = getCharacterIndexes()
+                            if (newItem != null) {
+                                console.log(newItem);
+                                setItems([...items, newItem]);
+                            }
+                        },
+                        'CLEAR_LIST': (_) => {
+                            setItems([])
+                        },
+                        'CLEAR_LAST': (_) => {
+                            setItems(items.slice(0, -1));
+                        },
+                        'DOWNLOAD_LIST': (_) => {
+                            downloadItems(items)
+                        }
+                    }} />
+                <textarea className='text-area-style' id='main-textbox'
+                    onBlur={(e) => {
+                        e.target.focus();
+                    }} />
 
                 <select name="tags" id="tags">
-                    <option value="TYPE_OF_APPEAL">Type of Appeal - Request for Standardization</option>
+                    <option value="TYPE_OF_APPEAL">Type of Appeal</option>
                     <option value="SUBJECT">Subject</option>
-                    <option value="RATIO_DECIDENDI">Ratio Decidendi</option>
-                    
+                    <option value="RATIO_DECIDENDI">Reasoning Section</option>
+
                     <option value="NOT_HEARD">Not Heard RS by TNU</option>
+                    <option value="RENDERED_MOOT">Rendered Moot RS by TNU</option>
                     <option value="SUSPENDED">Suspended RS by TNU</option>
                     <option value="NOT_ENTERTAINED">Not Entertained RS by TNU</option>
                     <option value="GRANTED_TO_REVOKE">RS Granted to Revoke Decision by TNU</option>
@@ -25,12 +69,13 @@ function AppConainer() {
                     <option value="GRANTED_AND_INDICATED">RS Granted and Indicated to Affect Theme by TNU</option>
                 </select>
 
-                <div className='row-container-style' style={{'height': 'unset', 'gap': '20px'}}>
+                <div className='row-container-style' style={{ 'height': 'unset', 'gap': '20px' }}>
                     <button className='button-style'
                         onClick={() => {
                             const newItem = getCharacterIndexes()
-                            if (newItem != null)
+                            if (newItem != null) {
                                 setItems([...items, newItem]);
+                            }
                         }}
                         onMouseDown={e => {
                             e = e || window.event;
@@ -45,6 +90,13 @@ function AppConainer() {
                         }}>
                         Clear Item List
                     </button>
+
+                    <button className='button-style'
+                        onClick={() => {
+                            setItems(items.slice(0, -1));
+                        }}>
+                        Clear Last Inserted Item
+                    </button>
                 </div>
 
                 <button className='button-style' onClick={() => downloadItems(items)}>
@@ -52,16 +104,16 @@ function AppConainer() {
                 </button>
             </div>
 
-            <div className='column-container-style' style={{'flex': 1}}>
+            <div className='column-container-style' style={{ 'flex': 1 }}>
                 <p>Extracted Items</p>
 
                 <ul id='items-collection' className='items-collection'>
-                    { 
-                        items.map(item => {
+                    {
+                        items.map((item, index) => {
                             return (
-                                <li style={{'margin': '30px 0'}}>
-                                    <div style={{'display': 'flex', 'flexDirection': 'column'}}>
-                                        { item['selected-text'] } - { item['type'] } - { item['start'] }..{ item['end'] }
+                                <li key={index} style={{ 'margin': '30px 0' }}>
+                                    <div style={{ 'display': 'flex', 'flexDirection': 'column' }}>
+                                        {item['selected-text']} - {item['type']} - {item['start']}..{item['end']}
                                     </div>
                                 </li>
                             );
@@ -105,12 +157,6 @@ function getCharacterIndexes(): Item | null {
         return null;
     }
 
-    console.log('not null');
-
-    console.log(txtarea.value);
-    console.log(txtarea.selectionStart);
-    console.log(txtarea.selectionEnd);    
-    
     return {
         'selected-text': txtarea.value.substring(
             txtarea.selectionStart,
