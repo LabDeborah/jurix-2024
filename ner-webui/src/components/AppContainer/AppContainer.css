@@ -25,6 +25,9 @@
     align-items: center;
 
     gap: 20px;
+
+    margin-left: 10vh;
+    margin-right: 10vh;
 }
 
 .button-style {
