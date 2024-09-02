@@ -1,0 +1,59 @@
+{
+    "source": "EMENTA: DIREITO PREVIDENCIÁRIO. DIREITO PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. NECESSIDADE DE ANÁLISE DO CONJUNTO PROBATÓRIO COM REEXAME DA MATÉRIA DE FATO. INCIDÊNCIA DA SÚMULA Nº 42. ALEGAÇÃO DE CERCEAMENTO DE DEFESA PELA TURMA PROLATORA DO ACÓRDÃO OBJURGADO. MATÉRIA DE NATUREZA PROCESSUAL. INCIDÊNCIA DA SÚMULA TNU Nº 43. INCIDENTE DA AUTARQUIA FEDERAL PREVIDENCIÁRIA NÃO CONHECIDO. \t\t\t\t\t\t\t ",
+    "items": [
+        {
+            "selected-text": "DIREITO PREVIDENCIÁRIO",
+            "start": 8,
+            "end": 30,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "DIREITO PROCESSUAL CIVIL",
+            "start": 32,
+            "end": 56,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL",
+            "start": 58,
+            "end": 113,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "NECESSIDADE DE ANÁLISE DO CONJUNTO PROBATÓRIO COM REEXAME DA MATÉRIA DE FATO",
+            "start": 115,
+            "end": 191,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INCIDÊNCIA DA SÚMULA Nº 42",
+            "start": 193,
+            "end": 219,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "ALEGAÇÃO DE CERCEAMENTO DE DEFESA PELA TURMA PROLATORA DO ACÓRDÃO OBJURGADO",
+            "start": 221,
+            "end": 296,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "MATÉRIA DE NATUREZA PROCESSUAL",
+            "start": 298,
+            "end": 328,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INCIDÊNCIA DA SÚMULA TNU Nº 43",
+            "start": 330,
+            "end": 360,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INCIDENTE DA AUTARQUIA FEDERAL PREVIDENCIÁRIA NÃO CONHECIDO",
+            "start": 362,
+            "end": 421,
+            "type": "NOT_HEARD"
+        }
+    ]
+}

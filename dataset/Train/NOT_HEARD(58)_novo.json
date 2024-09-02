@@ -1,0 +1,65 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. DIREITO PREVIDENCIÁRIO. INCAPACIDADE PARCIAL E PERMANENTE. SÚMULA 47, DA TNU. CONDIÇÕES PESSOAIS. DIVERGÊNCIA. AUSÊNCIA. REEXAME DE PROVAS. DESCABIMENTO. SÚMULA 42, DA TNU. INCIDENTE NÃO CONHECIDO. \t\t\t\t\t\t\t ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI",
+            "start": 0,
+            "end": 47,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "DIREITO PREVIDENCIÁRIO",
+            "start": 49,
+            "end": 71,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "INCAPACIDADE PARCIAL E PERMANENTE",
+            "start": 73,
+            "end": 106,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "SÚMULA 47, DA TNU",
+            "start": 108,
+            "end": 125,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "CONDIÇÕES PESSOAIS",
+            "start": 127,
+            "end": 145,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "DIVERGÊNCIA",
+            "start": 147,
+            "end": 158,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "AUSÊNCIA",
+            "start": 160,
+            "end": 168,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "REEXAME DE PROVAS",
+            "start": 170,
+            "end": 187,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "DESCABIMENTO. SÚMULA 42, DA TNU",
+            "start": 189,
+            "end": 220,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INCIDENTE NÃO CONHECIDO",
+            "start": 222,
+            "end": 245,
+            "type": "NOT_HEARD"
+        }
+    ]
+}

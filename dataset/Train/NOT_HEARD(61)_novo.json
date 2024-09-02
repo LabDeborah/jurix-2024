@@ -1,0 +1,65 @@
+{
+    "source": "EMENTA: DIREITO PREVIDENCIÁRIO. PEDIDO DE APOSENTADORIA POR INVALIDEZ. O ACÓRDÃO PROLATADO PELA TURMA DE ORIGEM ANALISOU AS CONDIÇÕES PESSOAIS E SOCIAIS. SEGURADA JOVEM COM POSSIBILIDADE DE REABILITAÇÃO À LUZ DO LAUDO PERICIAL MÉDICO. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL - PEDILEF. INEXISTÊNCIA DA DEMONSTRAÇÃO DO DISSÍDIO JURISPRUDENCIAL ENTRE O ACÓRDÃO RECORRIDO E A SÚMULA TNU Nº 22. QUESTÃO DE ORDEM TNU Nº 22. REEXAME DE MATÉRIA FÁTICA. OFENSA À SÚMULA TNU Nº 42. INCIDENTE DA PARTE AUTORA NÃO CONHECIDO.   \t\t\t\t\t\t\t ",
+    "items": [
+        {
+            "selected-text": "DIREITO PREVIDENCIÁRIO",
+            "start": 8,
+            "end": 30,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "PEDIDO DE APOSENTADORIA POR INVALIDEZ",
+            "start": 32,
+            "end": 69,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "O ACÓRDÃO PROLATADO PELA TURMA DE ORIGEM ANALISOU AS CONDIÇÕES PESSOAIS E SOCIAIS",
+            "start": 71,
+            "end": 152,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "SEGURADA JOVEM COM POSSIBILIDADE DE REABILITAÇÃO À LUZ DO LAUDO PERICIAL MÉDICO",
+            "start": 154,
+            "end": 233,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL - PEDILEF",
+            "start": 235,
+            "end": 300,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "INEXISTÊNCIA DA DEMONSTRAÇÃO DO DISSÍDIO JURISPRUDENCIAL ENTRE O ACÓRDÃO RECORRIDO E A SÚMULA TNU Nº 22",
+            "start": 302,
+            "end": 405,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "QUESTÃO DE ORDEM TNU Nº 22",
+            "start": 407,
+            "end": 433,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "REEXAME DE MATÉRIA FÁTICA",
+            "start": 435,
+            "end": 460,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "OFENSA À SÚMULA TNU Nº 42",
+            "start": 462,
+            "end": 487,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INCIDENTE DA PARTE AUTORA NÃO CONHECIDO",
+            "start": 489,
+            "end": 528,
+            "type": "NOT_HEARD"
+        }
+    ]
+}

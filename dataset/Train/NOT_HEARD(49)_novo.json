@@ -1,0 +1,53 @@
+{
+    "source": "EMENTA: DIREITO PREVIDENCIÁRIO. APOSENTADORIA POR IDADE RURAL. DISCORD NCIA QUANTO AO TERMO A QUO PARA A IMPLANTAÇÃO DO BENEFÍCIO PREVIDENCIÁRIO. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL - PEDILEF/PUIL. NÃO HÁ SIMILITUDE FÁTICA E JURÍDICA ENTRE O ACÓRDÃO OBJURGADO E O ACÓRDÃO PARADIGMA. O ACÓRDÃO PARADIGMA VERSA SOBRE BENEFÍCIO ASSISTENCIAL. INCIDÊNCIA DA QUESTÃO DE ORDEM TNU Nº 22. INCIDENTE DA PARTE AUTORA NÃO CONHECIDO. ",
+    "items": [
+        {
+            "selected-text": "DIREITO PREVIDENCIÁRIO",
+            "start": 8,
+            "end": 30,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "APOSENTADORIA POR IDADE RURAL",
+            "start": 32,
+            "end": 61,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "DISCORD NCIA QUANTO AO TERMO A QUO PARA A IMPLANTAÇÃO DO BENEFÍCIO PREVIDENCIÁRIO",
+            "start": 63,
+            "end": 144,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL - PEDILEF/PUIL",
+            "start": 146,
+            "end": 216,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "NÃO HÁ SIMILITUDE FÁTICA E JURÍDICA ENTRE O ACÓRDÃO OBJURGADO E O ACÓRDÃO PARADIGMA",
+            "start": 218,
+            "end": 301,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "O ACÓRDÃO PARADIGMA VERSA SOBRE BENEFÍCIO ASSISTENCIAL",
+            "start": 303,
+            "end": 357,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INCIDÊNCIA DA QUESTÃO DE ORDEM TNU Nº 22",
+            "start": 359,
+            "end": 399,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INCIDENTE DA PARTE AUTORA NÃO CONHECIDO",
+            "start": 401,
+            "end": 440,
+            "type": "NOT_HEARD"
+        }
+    ]
+}

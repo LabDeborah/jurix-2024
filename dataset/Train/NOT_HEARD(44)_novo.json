@@ -1,0 +1,29 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. INCABÍVEL O INCIDENTE QUE IMPLIQUE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 42/TNU. NÃO HAVENDO INCAPACIDADE PARA A ATIVIDADE HABITUAL FICA DISPENSADA A ANÁLISE DO CONTEXTO SOCIOECONÔMICO. SÚMULA 77/TNU. O Pedido de Uniformização Nacional de Interpretação de Lei Federal pressupõe que seja demonstrada divergência na interpretação do direito material entre decisões de Turmas Recursais de diferentes Regiões ou quando houver contrariedade à súmula ou jurisprudência dominante do Col. Superior Tribunal de Justiça ou da Eg. Turma Nacional de Uniformização, conforme dispõe o art. 14, § 2º da Lei nº 10.259/01 e art. 12 do RITNU (Resolução CJF nº 586/2019).É imprescindível, outrossim, que a análise da questão de direito material não implique o revolvimento do conjunto probatório, consentâneo com a súmula 42/TNU.Haja vista que não foi constatada incapacidade para a atividade habitual, não se faz necessária a análise do contexto socioeconômico do segurado, conforme a súmula 77/TNU.Pedido de Uniformização não conhecido. ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL",
+            "start": 0,
+            "end": 55,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "NÃO HAVENDO INCAPACIDADE PARA A ATIVIDADE HABITUAL FICA DISPENSADA A ANÁLISE DO CONTEXTO SOCIOECONÔMICO",
+            "start": 151,
+            "end": 254,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "INCABÍVEL O INCIDENTE QUE IMPLIQUE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 42/TNU",
+            "start": 57,
+            "end": 149,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "Pedido de Uniformização não conhecido",
+            "start": 1051,
+            "end": 1088,
+            "type": "NOT_HEARD"
+        }
+    ]
+}

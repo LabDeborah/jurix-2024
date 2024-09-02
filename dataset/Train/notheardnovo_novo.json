@@ -1,0 +1,53 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO NACIONAL. DIREITO PREVIDENCIÁRIO. BENEFÍCIO POR INCAPACIDADE. APOSENTADORIA POR INVALIDEZ. DATA DE INÍCIO DO BENEFÍCIO. AUSÊNCIA DE SIMILITUDE FÁTICA E JURÍDICA ENTRE O ACÓRDÃO RECORRIDO E O PARADIGMA APONTADO. QUESTÃO DE ORDEM Nº 22 DA TURMA NACIONAL DE UNIFORMIZAÇÃO. PEDIDO DE UNIFORMIZAÇÃO NACIONAL NÃO CONHECIDO ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO NACIONAL NÃO CONHECIDO",
+            "start": 294,
+            "end": 340,
+            "type": "NOT_HEARD"
+        },
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO NACIONAL",
+            "start": 0,
+            "end": 32,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "DIREITO PREVIDENCIÁRIO",
+            "start": 34,
+            "end": 56,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "BENEFÍCIO POR INCAPACIDADE",
+            "start": 58,
+            "end": 84,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "APOSENTADORIA POR INVALIDEZ",
+            "start": 86,
+            "end": 113,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "DATA DE INÍCIO DO BENEFÍCIO",
+            "start": 115,
+            "end": 142,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "AUSÊNCIA DE SIMILITUDE FÁTICA E JURÍDICA ENTRE O ACÓRDÃO RECORRIDO E O PARADIGMA APONTADO",
+            "start": 144,
+            "end": 233,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "QUESTÃO DE ORDEM Nº 22 DA TURMA NACIONAL DE UNIFORMIZAÇÃO",
+            "start": 235,
+            "end": 292,
+            "type": "RATIO_DECIDENDI"
+        }
+    ]
+}

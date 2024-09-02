@@ -1,0 +1,41 @@
+{
+    "source": "EMENTA: DIREITO PREVIDENCIÁRIO. ALEGAÇÃO DE CONTAGEM EQUIVOCADA DO TERMO A QUO DOS JUROS MORATÓRIOS. SUPOSTA OFENSA AO TEMA STJ Nº 995 NA FIXAÇÃO DA DER. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL - PEDILEF/PUIL. NÃO OCORRÊNCIA DA DIVERGÊNCIA OU DO DISSÍDIO JURISPRUDENCIAL. INCIDENTE DA AUTARQUIA FEDERAL PREVIDENCIÁRIA NÃO CONHECIDO.",
+    "items": [
+        {
+            "selected-text": "DIREITO PREVIDENCIÁRIO",
+            "start": 8,
+            "end": 30,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "ALEGAÇÃO DE CONTAGEM EQUIVOCADA DO TERMO A QUO DOS JUROS MORATÓRIOS",
+            "start": 32,
+            "end": 99,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "SUPOSTA OFENSA AO TEMA STJ Nº 995 NA FIXAÇÃO DA DER",
+            "start": 101,
+            "end": 152,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL - PEDILEF/PUIL",
+            "start": 154,
+            "end": 224,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "NÃO OCORRÊNCIA DA DIVERGÊNCIA OU DO DISSÍDIO JURISPRUDENCIAL",
+            "start": 226,
+            "end": 286,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INCIDENTE DA AUTARQUIA FEDERAL PREVIDENCIÁRIA NÃO CONHECIDO",
+            "start": 288,
+            "end": 347,
+            "type": "NOT_HEARD"
+        }
+    ]
+}

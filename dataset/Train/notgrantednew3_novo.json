@@ -1,0 +1,71 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO DE LEI FEDERAL. PREVIDENCIÁRIO. TEMPO DE CONTRIBUIÇÃO. COMPROVAÇÃO. SENTENÇA TRABALHISTA.   ACÓRDÃO RECORRIDO QUE DETERMINOU A REVISÃO DO BENEFÍCIO DA PARTE AUTORA, PARA INCLUIR NO CÁLCULO DA RMI OS VALORES RECONHECIDOS EM SENTENÇA TRABALHISTA PROLATADA APÓS REGULAR INSTRUÇÃO E COGNIÇÃO EXAURIENTE. PARADIGMA QUE VERSA SOBRE A IMPOSSIBILIDADE DA SENTENÇA TRABALHISTA CONSTITUIR INÍCIO DE PROVA MATERIAL PARA O RECONHECIMENTO DO PERÍODO TRABALHADO QUANDO AUSENTE ELEMENTOS DE PROVA QUE COMPROVEM A ATIVIDADE LABORATIVA.  IMPRESTABILIDADE. QUESTÃO DE ORDEM N. 22 DA TNU. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA N. 42 DA TNU.  INCIDENTE NÃO ADMITIDO. ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE LEI FEDERAL",
+            "start": 0,
+            "end": 38,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "PREVIDENCIÁRIO",
+            "start": 40,
+            "end": 54,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "TEMPO DE CONTRIBUIÇÃO",
+            "start": 56,
+            "end": 77,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "COMPROVAÇÃO",
+            "start": 79,
+            "end": 90,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "SENTENÇA TRABALHISTA",
+            "start": 92,
+            "end": 112,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "ACÓRDÃO RECORRIDO QUE DETERMINOU A REVISÃO DO BENEFÍCIO DA PARTE AUTORA, PARA INCLUIR NO CÁLCULO DA RMI OS VALORES RECONHECIDOS EM SENTENÇA TRABALHISTA PROLATADA APÓS REGULAR INSTRUÇÃO E COGNIÇÃO EXAURIENTE. PARADIGMA QUE VERSA SOBRE A IMPOSSIBILIDADE DA SENTENÇA TRABALHISTA CONSTITUIR INÍCIO DE PROVA MATERIAL PARA O RECONHECIMENTO DO PERÍODO TRABALHADO QUANDO AUSENTE ELEMENTOS DE PROVA QUE COMPROVEM A ATIVIDADE LABORATIVA.  IMPRESTABILIDADE",
+            "start": 116,
+            "end": 561,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "QUESTÃO DE ORDEM N. 22 DA TNU",
+            "start": 563,
+            "end": 592,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "REEXAME DE MATÉRIA FÁTICA",
+            "start": 594,
+            "end": 619,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "IMPOSSIBILIDADE",
+            "start": 621,
+            "end": 636,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "SÚMULA N. 42 DA TNU",
+            "start": 638,
+            "end": 657,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INCIDENTE NÃO ADMITIDO",
+            "start": 660,
+            "end": 682,
+            "type": "NOT_GRANTED"
+        }
+    ]
+}

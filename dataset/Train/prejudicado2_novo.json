@@ -1,0 +1,47 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO NACIONAL. DIREITO PREVIDENCIÁRIO. CONCESSÃO DE APOSENTADORIA POR IDADE. POSSIBILIDADE DE REAFIRMAÇÃO DA DER PARA 06/2020. HIPÓTESE EM QUE A AUSÊNCIA DE MANIFESTAÇÃO DA TURMA DE ORIGEM ACERCA DA QUESTÃO DE DIREITO SUSCITADA PELO AUTOR IMPEDIU A FORMAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. ACÓRDÃO ANULADO, COM RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO. PEDIDO DE UNIFORMIZAÇÃO NACIONAL PREJUDICADO ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO NACIONAL",
+            "start": 0,
+            "end": 32,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "DIREITO PREVIDENCIÁRIO",
+            "start": 34,
+            "end": 56,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "APOSENTADORIA POR IDADE",
+            "start": 71,
+            "end": 94,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "POSSIBILIDADE DE REAFIRMAÇÃO DA DER PARA 06/2020",
+            "start": 96,
+            "end": 144,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "HIPÓTESE EM QUE A AUSÊNCIA DE MANIFESTAÇÃO DA TURMA DE ORIGEM ACERCA DA QUESTÃO DE DIREITO SUSCITADA PELO AUTOR IMPEDIU A FORMAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL",
+            "start": 146,
+            "end": 307,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "ACÓRDÃO ANULADO, COM RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO",
+            "start": 309,
+            "end": 377,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO NACIONAL PREJUDICADO",
+            "start": 379,
+            "end": 423,
+            "type": "RENDERED_MOOT"
+        }
+    ]
+}

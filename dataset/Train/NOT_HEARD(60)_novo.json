@@ -1,0 +1,71 @@
+{
+    "source": "EMENTA: DIREITO PREVIDENCIÁRIO. DIREITO PROCESSUAL CIVIL. APRESENTAÇÃO DE DOCUMENTOS EXTEMPOR NEOS PARA COMPROVAR O LABOR SOB CONDIÇÕES OU EM ATIVIDADES ESPECIAIS. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL - PEDILEF/PUIL. QUESTÃO DE NATUREZA NOTADAMENTE PROCESSUAL. PRECLUSÃO CONSUMATIVA EM RELAÇÃO À APRESENTAÇÃO DE PROVAS. INCIDÊNCIA DA SÚMULA TNU Nº 43. QUESTÃO DE NATUREZA PROBATÓRIA. REEXAME DE MATÉRIA DE FATO ANTE A ANÁLISE DA DOCUMENTAÇÃO ENCARTADA AOS AUTOS. INCIDÊNCIA DA SÚMULA TNU Nº 42. INCIDENTE DA PARTE AUTORA NÃO CONHECIDO.  \t\t\t\t\t\t\t ",
+    "items": [
+        {
+            "selected-text": "DIREITO PREVIDENCIÁRIO",
+            "start": 8,
+            "end": 30,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "DIREITO PROCESSUAL CIVIL",
+            "start": 32,
+            "end": 56,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "APRESENTAÇÃO DE DOCUMENTOS EXTEMPOR NEOS PARA COMPROVAR O LABOR SOB CONDIÇÕES OU EM ATIVIDADES ESPECIAIS",
+            "start": 58,
+            "end": 162,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL - PEDILEF/PUIL",
+            "start": 164,
+            "end": 234,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "QUESTÃO DE NATUREZA NOTADAMENTE PROCESSUAL",
+            "start": 236,
+            "end": 278,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "PRECLUSÃO CONSUMATIVA EM RELAÇÃO À APRESENTAÇÃO DE PROVAS",
+            "start": 280,
+            "end": 337,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INCIDÊNCIA DA SÚMULA TNU Nº 43",
+            "start": 339,
+            "end": 369,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "QUESTÃO DE NATUREZA PROBATÓRIA",
+            "start": 371,
+            "end": 401,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "REEXAME DE MATÉRIA DE FATO ANTE A ANÁLISE DA DOCUMENTAÇÃO ENCARTADA AOS AUTOS",
+            "start": 403,
+            "end": 480,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INCIDÊNCIA DA SÚMULA TNU Nº 42",
+            "start": 482,
+            "end": 512,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INCIDENTE DA PARTE AUTORA NÃO CONHECIDO",
+            "start": 514,
+            "end": 553,
+            "type": "NOT_HEARD"
+        }
+    ]
+}
