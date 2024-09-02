@@ -1,0 +1,59 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. IPHAN. MINISTÉRIO DA CULTURA. ESTRUTURA REMUNERATÓRIA ESPECIAL - ERE. OPÇÃO.  LEI 12.277/2010. TÉCNICO. ECONOMISTA. REEXAME DE PROVA. INVIABILIDADE. INCIDENTE NÃO CONHECIDO. 1 - O autor é servidor público federal, integrante dos quadros do Instituto do Patrimônio Histórico e Artístico Nacional - IPHAN, e pretende ver assegurado seu direito de opção pela Estrutura Remuneratória Especial, prevista na Lei 12.277/2010, para os cargos de provimento efetivo, de nível superior, de Engenheiro, Arquiteto, Economista, Estatístico e Geólogo, integrantes dos planos de carreira e cargos referidos no anexo XII. 2 - A turma recursal rejeitou o pedido com base em dois fundamentos. O primeiro deles, relacionado à análise da prova, é suficiente para sustentar o acórdão impugnado. A turma concluiu que o autor não exerce cargo privativo de economista, pois esse cargo pode ser ocupado também pelos graduados em administração. Com isso, o autor não se enquadra no art. 19 da Lei 12.277/2010. 3 - Não é possível reavaliar essa conclusão sem o reexame da prova, medida incabível nos limites do pedido de uniformização, conforme o art. 14, da Lei 10.259/2001, e a súmula 42, da TNU. Não conhecimento do incidente. ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI",
+            "start": 0,
+            "end": 47,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "ADMINISTRATIVO",
+            "start": 49,
+            "end": 63,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "SERVIDOR PÚBLICO FEDERAL",
+            "start": 65,
+            "end": 89,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "IPHAN",
+            "start": 91,
+            "end": 96,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "MINISTÉRIO DA CULTURA",
+            "start": 98,
+            "end": 119,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "ESTRUTURA REMUNERATÓRIA ESPECIAL - ERE",
+            "start": 121,
+            "end": 159,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "REEXAME DE PROVA",
+            "start": 207,
+            "end": 223,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INVIABILIDADE",
+            "start": 225,
+            "end": 238,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INCIDENTE NÃO CONHECIDO",
+            "start": 240,
+            "end": 263,
+            "type": "NOT_HEARD"
+        }
+    ]
+}

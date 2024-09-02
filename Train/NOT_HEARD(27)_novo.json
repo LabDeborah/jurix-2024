@@ -1,0 +1,47 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. PROCESSUAL CIVIL E ADMINISTRATIVO. AUXÍLIO EMERGENCIAL RESIDUAL. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO (ART. 485, VI, DO CPC), POR FALTA DE INTERESSE PROCESSUAL, COM O FUNDAMENTO DE QUE NÃO HOUVE ANÁLISE ADMINISTRATIVA PRÉVIA DO BENEFÍCIO, OU SEJA, NÃO HOUVE PRÉVIO REQUERIMENTO ADMINISTRATIVO. PARADIGMA QUE TRATA PRINCIPALMENTE DA PRETENSÃO DE PAGAMENTO DE TODAS AS PARCELAS DO AUXÍLIO EMERGENCIAL 2020, INEXISTINDO TESE JURÍDICA OPOSTA ÀQUELA CONSIGNADA NO ACÓRDÃO RECORRIDO. NÃO DEMONSTRADAS A IDENTIDADE FÁTICA E A CONTRARIEDADE DE TESES JURÍDICAS ENTRE OS ACÓRDÃOS CONFRONTADOS. QUESTÃO DE ORDEM 22 DA TNU. RECURSO DA PARTE AUTORA NÃO CONHECIDO. ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL",
+            "start": 0,
+            "end": 55,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "PROCESSUAL CIVIL E ADMINISTRATIVO",
+            "start": 57,
+            "end": 90,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "AUXÍLIO EMERGENCIAL RESIDUAL",
+            "start": 92,
+            "end": 120,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO",
+            "start": 122,
+            "end": 166,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "NÃO DEMONSTRADAS A IDENTIDADE FÁTICA E A CONTRARIEDADE DE TESES JURÍDICAS ENTRE OS ACÓRDÃOS CONFRONTADOS",
+            "start": 543,
+            "end": 647,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "QUESTÃO DE ORDEM 22 DA TNU",
+            "start": 649,
+            "end": 675,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "RECURSO DA PARTE AUTORA NÃO CONHECIDO",
+            "start": 677,
+            "end": 714,
+            "type": "NOT_HEARD"
+        }
+    ]
+}

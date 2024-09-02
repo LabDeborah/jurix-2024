@@ -1,0 +1,53 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. DIREITO PREVIDENCIÁRIO. BENEFÍCIO POR INCAPACIDADE INTERCALADO POR CONTRIBUIÇÕES. CARÊNCIA. SIMILITUDE FÁTICA. AUSÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL NÃO CONFIGURADA. INCIDENTE NÃO CONHECIDO. ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI",
+            "start": 0,
+            "end": 47,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "DIREITO PREVIDENCIÁRIO",
+            "start": 49,
+            "end": 71,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "BENEFÍCIO POR INCAPACIDADE INTERCALADO POR CONTRIBUIÇÕES",
+            "start": 73,
+            "end": 129,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "CARÊNCIA",
+            "start": 131,
+            "end": 139,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "SIMILITUDE FÁTICA",
+            "start": 141,
+            "end": 158,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "AUSÊNCIA",
+            "start": 160,
+            "end": 168,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "DIVERGÊNCIA JURISPRUDENCIAL NÃO CONFIGURADA",
+            "start": 170,
+            "end": 213,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INCIDENTE NÃO CONHECIDO",
+            "start": 215,
+            "end": 238,
+            "type": "NOT_HEARD"
+        }
+    ]
+}

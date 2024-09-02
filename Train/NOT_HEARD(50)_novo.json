@@ -1,0 +1,53 @@
+{
+    "source": "EMENTA: DIREITO PREVIDENCIÁRIO. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL - PEDILEF. PEDIDO DE REVISÃO DA RMI. ALEGAÇÃO SOBRE A POSSIBILIDADE DE APLICAÇÃO DOS NOVOS TETOS TRAZIDOS PELAS EMENDAS CONSTITUCIONAIS Nº 20/1998 E 41/2003 COM O AFASTAMENTO POR COMPLETO DO TETO DO SALÁRIO-DE-CONTRIBUIÇÃO. TEMA TNU Nº 138 TRANSITADO EM JULGADO EM 30.03.2017. ACÓRDÃO OBJURGADO EM CONSON NCIA COM O MENCIONADO TEMA. INCABÍVEL O PEDILEF, EX VI, INCISO I, ARTIGO 14, DO RITNU. INCIDENTE DA PARTE AUTORA NÃO CONHECIDO. ",
+    "items": [
+        {
+            "selected-text": "DIREITO PREVIDENCIÁRIO",
+            "start": 8,
+            "end": 30,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL - PEDILEF",
+            "start": 32,
+            "end": 97,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "PEDIDO DE REVISÃO DA RMI",
+            "start": 99,
+            "end": 123,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "ALEGAÇÃO SOBRE A POSSIBILIDADE DE APLICAÇÃO DOS NOVOS TETOS TRAZIDOS PELAS EMENDAS CONSTITUCIONAIS Nº 20/1998 E 41/2003 COM O AFASTAMENTO POR COMPLETO DO TETO DO SALÁRIO-DE-CONTRIBUIÇÃO",
+            "start": 125,
+            "end": 310,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "TEMA TNU Nº 138 TRANSITADO EM JULGADO EM 30.03.2017",
+            "start": 312,
+            "end": 363,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "ACÓRDÃO OBJURGADO EM CONSON NCIA COM O MENCIONADO TEMA",
+            "start": 365,
+            "end": 419,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INCABÍVEL O PEDILEF, EX VI, INCISO I, ARTIGO 14, DO RITNU",
+            "start": 421,
+            "end": 478,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INCIDENTE DA PARTE AUTORA NÃO CONHECIDO",
+            "start": 480,
+            "end": 519,
+            "type": "NOT_HEARD"
+        }
+    ]
+}

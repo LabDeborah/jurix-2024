@@ -1,0 +1,35 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. PROCESSUAL CIVIL. AUSÊNCIA DE MANIFESTAÇÃO EXPRESSA, NO ACÓRDÃO RECORRIDO, SOBRE RELEVANTE QUESTÃO DE DIREITO MATERIAL, DEBATIDA NO ACÓRDÃO ANTERIOR, ALTERADO EM JUÍZO DE ADEQUAÇÃO, BEM COMO NOS SUBSEQUENTES EMBARGOS DE DECLARAÇÃO, COM APTIDÃO PARA ALTERAR O RESULTADO DA DEMANDA. APRESENTAÇÃO DE PARADIGMAS VÁLIDOS E COM APARENTE SIMILITUDE FÁTICA E JURÍDICA. DIVERGÊNCIA JURISPRUDENCIAL NÃO FORMADA, EM RAZÃO DA OMISSÃO DA TURMA DE ORIGEM. ANULAÇÃO DE OFÍCIO DO ACÓRDÃO RECORRIDO. RECURSO PREJUDICADO. ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL",
+            "start": 0,
+            "end": 55,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "PROCESSUAL CIVIL",
+            "start": 57,
+            "end": 73,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "AUSÊNCIA DE MANIFESTAÇÃO EXPRESSA, NO ACÓRDÃO RECORRIDO, SOBRE RELEVANTE QUESTÃO DE DIREITO MATERIAL, DEBATIDA NO ACÓRDÃO ANTERIOR, ALTERADO EM JUÍZO DE ADEQUAÇÃO, BEM COMO NOS SUBSEQUENTES EMBARGOS DE DECLARAÇÃO, COM APTIDÃO PARA ALTERAR O RESULTADO DA DEMANDA",
+            "start": 75,
+            "end": 336,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "DIVERGÊNCIA JURISPRUDENCIAL NÃO FORMADA, EM RAZÃO DA OMISSÃO DA TURMA DE ORIGEM",
+            "start": 418,
+            "end": 497,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "RECURSO PREJUDICADO",
+            "start": 540,
+            "end": 559,
+            "type": "RENDERED_MOOT"
+        }
+    ]
+}

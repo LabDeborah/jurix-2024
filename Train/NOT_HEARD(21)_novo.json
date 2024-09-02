@@ -1,0 +1,65 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. PREVIDENCIÁRIO. INÍCIO DE PROVA MATERIAL. ATIVIDADE RURAL. EMPREGADO RURAL. SEGURADO ESPECIAL. REGIME DE ECONOMIA FAMILIAR. DIARISTA. AUSÊNCIA DE SEMELHANÇA ENTRE OS CASOS PRESENTE E PARADIGMA. INCIDENTE NÃO CONHECIDO.   ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI",
+            "start": 0,
+            "end": 47,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "PREVIDENCIÁRIO",
+            "start": 49,
+            "end": 63,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "INÍCIO DE PROVA MATERIAL",
+            "start": 65,
+            "end": 89,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "ATIVIDADE RURAL",
+            "start": 91,
+            "end": 106,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "EMPREGADO RURAL",
+            "start": 108,
+            "end": 123,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "SEGURADO ESPECIAL",
+            "start": 125,
+            "end": 142,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "REGIME DE ECONOMIA FAMILIAR",
+            "start": 144,
+            "end": 171,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "DIARISTA",
+            "start": 173,
+            "end": 181,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "AUSÊNCIA DE SEMELHANÇA ENTRE OS CASOS PRESENTE E PARADIGMA",
+            "start": 183,
+            "end": 241,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INCIDENTE NÃO CONHECIDO",
+            "start": 243,
+            "end": 266,
+            "type": "NOT_HEARD"
+        }
+    ]
+}

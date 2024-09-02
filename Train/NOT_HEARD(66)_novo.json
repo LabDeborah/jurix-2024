@@ -1,0 +1,59 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. TRIBUTÁRIO. CONTRIBUIÇÃO DO SALÁRIO-EDUCAÇÃO. TITULAR DE CARTÓRIO DE SERVIÇOS NOTARIAIS E DE REGISTRO. AUSÊNCIA DE PARADIGMA VÁLIDO QUE DENOTE A EXISTÊNCIA DE JURISPRUDÊNCIA DOMINANTE DO COL. STJ. AUSÊNCIA DE COTEJO ANALÍTICO.  INCIDENTE NÃO CONHECIDO. APLICAÇÃO DAS QUESTÕES DE ORDEM Nº 05 E 22/TNU.      ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL",
+            "start": 0,
+            "end": 55,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "TRIBUTÁRIO",
+            "start": 57,
+            "end": 67,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "CONTRIBUIÇÃO DO SALÁRIO-EDUCAÇÃO",
+            "start": 69,
+            "end": 101,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "TITULAR DE CARTÓRIO DE SERVIÇOS NOTARIAIS E DE REGISTRO",
+            "start": 103,
+            "end": 158,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "AUSÊNCIA DE PARADIGMA VÁLIDO QUE DENOTE A EXISTÊNCIA DE JURISPRUDÊNCIA DOMINANTE DO COL",
+            "start": 160,
+            "end": 247,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "STJ",
+            "start": 249,
+            "end": 252,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "AUSÊNCIA DE COTEJO ANALÍTICO",
+            "start": 254,
+            "end": 282,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "APLICAÇÃO DAS QUESTÕES DE ORDEM Nº 05 E 22/TNU",
+            "start": 310,
+            "end": 356,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INCIDENTE NÃO CONHECIDO",
+            "start": 285,
+            "end": 308,
+            "type": "NOT_HEARD"
+        }
+    ]
+}

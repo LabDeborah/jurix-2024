@@ -1,0 +1,47 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. APOSENTADORIA POR INVALIDEZ. PERÍCIA INDIRETA POR MEIO DA ANÁLISE DE DOCUMENTOS REALIZADA DURANTE A PANDEMIA COVID 19. SUPOSTA VIOLAÇÃO DA SEGURANÇA JURÍDICA E DOS ATRIBUTOS DA PRESUNÇÃO DE VERACIDADE E LEGALIDADE DO ATO ADMINISTRATIVO. NULIDADE DA PERÍCIA NÃO CONFIGURADA. ACÓRDÃO RECORRIDO DE ACORDO COM O TEMA 288 DA TNU. PEDIDO DE UNIFORMIZAÇÃO NÃO CONHECIDO.",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL",
+            "start": 0,
+            "end": 55,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "APOSENTADORIA POR INVALIDEZ",
+            "start": 57,
+            "end": 84,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "PERÍCIA INDIRETA POR MEIO DA ANÁLISE DE DOCUMENTOS REALIZADA DURANTE A PANDEMIA COVID 19",
+            "start": 86,
+            "end": 174,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "SUPOSTA VIOLAÇÃO DA SEGURANÇA JURÍDICA E DOS ATRIBUTOS DA PRESUNÇÃO DE VERACIDADE E LEGALIDADE DO ATO ADMINISTRATIVO",
+            "start": 176,
+            "end": 292,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "NULIDADE DA PERÍCIA NÃO CONFIGURADA",
+            "start": 294,
+            "end": 329,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "ACÓRDÃO RECORRIDO DE ACORDO COM O TEMA 288 DA TNU",
+            "start": 331,
+            "end": 380,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO NÃO CONHECIDO",
+            "start": 382,
+            "end": 419,
+            "type": "NOT_HEARD"
+        }
+    ]
+}
