@@ -1,0 +1,53 @@
+{
+    "source": "EMENTA: DIREITO PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE. ALEGAÇÃO DE NECESSIDADE DE UM EXAME MAIS DETALHADO DO LAUDO PERICIAL MÉDICO. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL - PEDILEF. REEXAME DE MATÉRIA DE FATO. INCIDÊNCIA DA SÚMULA TNU Nº 42. NÃO CUMPRIMENTO DO DISPOSTO NA QUESTÃO DE ORDEM TNU Nº 36. INCIDENTE NÃO CONHECIDO.  \t\t\t\t\t\t\t  ",
+    "items": [
+        {
+            "selected-text": "DIREITO PREVIDENCIÁRIO",
+            "start": 8,
+            "end": 30,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "AUXÍLIO-ACIDENTE",
+            "start": 32,
+            "end": 48,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "ALEGAÇÃO DE NECESSIDADE DE UM EXAME MAIS DETALHADO DO LAUDO PERICIAL MÉDICO",
+            "start": 50,
+            "end": 125,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL - PEDILEF",
+            "start": 127,
+            "end": 192,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "REEXAME DE MATÉRIA DE FATO",
+            "start": 194,
+            "end": 220,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INCIDÊNCIA DA SÚMULA TNU Nº 42",
+            "start": 222,
+            "end": 252,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "NÃO CUMPRIMENTO DO DISPOSTO NA QUESTÃO DE ORDEM TNU Nº 36",
+            "start": 254,
+            "end": 311,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INCIDENTE NÃO CONHECIDO",
+            "start": 313,
+            "end": 336,
+            "type": "NOT_HEARD"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. PENSÃO POR MORTE. COMPROVAÇÃO DE UNIÃO ESTÁVEL MEDIANTE PROVA EXCLUSIVAMENTE TESTEMUNHAL. FATO GERADOR ANTERIOR AO ADVENTO DA LEI 13.846/19 QUE ACRESCENTOU O § 5º AO ART 16 DA LEI 8.213/91. ACÓRDÃO RECORRIDO AFIRMA QUE A PROVA ORAL FOI GENÉRICA E SEM PRECISÃO DE DETALHES. INCABÍVEL A ALTERAÇÃO DA MOLDURA FÁTICA POR IMPLICAR REVOLVIMENTO DO CONJUNTO PROBATÓRIO. SÚMULA 42/TNU. AUSÊNCIA DE DISSÍDIO EM FACE DA SÚMULA 63/TNU. INCIDENTE NÃO ADMITIDO. APLICAÇÃO DA QUESTÃO DE ORDEM Nº 13/TNU.  ",
+    "items": [
+        {
+            "selected-text": "COMPROVAÇÃO DE UNIÃO ESTÁVEL MEDIANTE PROVA EXCLUSIVAMENTE TESTEMUNHAL",
+            "start": 75,
+            "end": 145,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "FATO GERADOR ANTERIOR AO ADVENTO DA LEI 13.846/19 QUE ACRESCENTOU O § 5º AO ART 16 DA LEI 8.213/91",
+            "start": 147,
+            "end": 245,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "ACÓRDÃO RECORRIDO AFIRMA QUE A PROVA ORAL FOI GENÉRICA E SEM PRECISÃO DE DETALHES",
+            "start": 247,
+            "end": 328,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "SÚMULA 42/TNU",
+            "start": 420,
+            "end": 433,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "AUSÊNCIA DE DISSÍDIO EM FACE DA SÚMULA 63/TNU",
+            "start": 435,
+            "end": 480,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "APLICAÇÃO DA QUESTÃO DE ORDEM Nº 13/TNU",
+            "start": 506,
+            "end": 545,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INCIDENTE NÃO ADMITIDO",
+            "start": 482,
+            "end": 504,
+            "type": "NOT_GRANTED"
+        }
+    ]
+}

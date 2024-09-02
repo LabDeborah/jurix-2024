@@ -1,0 +1,59 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. DIREITO PREVIDENCIÁRIO. AUXÍLIO-RECLUSÃO.  LEI 13.846/2019. REGIME PRISIONAL. PROGRESSÃO. REGIME FECHADO. REGIME SEMIABERTO.  DIREITO ADQUIRIDO. SÚMULA 340 DO STJ. DIVERGÊNCIA. SIMILITUDE FÁTICO-JURÍDICA. AUSÊNCIA.  INCIDENTE NÃO CONHECIDO. 1 - O autor busca o reconhecimento do direito ao benefício de auxílio-reclusão, pelo encarceramento do segurado ocorrido em 22/12/2018. O pedido é de pagamento das prestações desde 24/07/2020, quando o segurado já havia progredido para o regime semiaberto. Alega a divergência do acórdão recorrido em relação à súmula 340, do STJ. 2 - Na data da progressão do regime prisional, estava em vigor a Lei 13.846/2019, que previu ser devido o auxílio-reclusão somente aos dependentes de segurado de baixa renda recolhido à prisão em regime fechado.  3 - Para o julgamento do caso, é preciso saber se o autor tem direito ao regime jurídico do benefício instituído por ocasião do encarceramento. Se se considerar que existe esse direito, o autor deve receber auxílio-reclusão mesmo na hipótese de progressão para o regime semiaberto na vigência da Lei 13.846/2019. Acontece que não houve esse debate nos precedentes que originaram a súmula 340, do STJ. Por isso, a divergência não se caracteriza. Com isso, não se deve conhecer do incidente. ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI",
+            "start": 0,
+            "end": 47,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "DIREITO PREVIDENCIÁRIO",
+            "start": 49,
+            "end": 71,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "AUXÍLIO-RECLUSÃO",
+            "start": 73,
+            "end": 89,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "LEI 13.846/2019",
+            "start": 92,
+            "end": 107,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "REGIME PRISIONAL",
+            "start": 109,
+            "end": 125,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "SIMILITUDE FÁTICO-JURÍDICA",
+            "start": 226,
+            "end": 252,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "AUSÊNCIA",
+            "start": 254,
+            "end": 262,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INCIDENTE NÃO CONHECIDO",
+            "start": 265,
+            "end": 288,
+            "type": "NOT_HEARD"
+        },
+        {
+            "selected-text": " Com isso, não se deve conhecer do incidente",
+            "start": 265,
+            "end": 288,
+            "type": "NOT_HEARD"
+        }
+    ]
+}

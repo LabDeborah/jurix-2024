@@ -1,0 +1,53 @@
+{
+    "source": "ADMINISTRATIVO. PEDIDO DE UNIFORMIZAÇÃO NACIONAL. CONTRATO FIRMADO NO  MBITO DO SISTEMA FINANCEIRO DE HABITAÇÃO - SFH. APÓLICE DE SEGURO HABITACIONAL  OBRIGATÓRIO VINCULADO AO SFH DEVE ABRANGER OS VÍCIOS DE CONSTRUÇÃO DO IMÓVEL. PRECEDENTES DESTA TNU E DO STJ. É nula cláusula de seguro habitacional obrigatório, no âmbito dos contratos firmados pelo Sistema Financeiro de Habitação, que exclua os vícios de construção do imóvel, independentemente da natureza pública ou privada das respectivas apólices de seguro.Pedido de Uniformização Nacional provido. Acórdão anulado. Retorno dos autos à Turma de origem para reexame dos fatos em consonância com a tese ora reafirmada. ",
+    "items": [
+        {
+            "selected-text": "ADMINISTRATIVO",
+            "start": 0,
+            "end": 14,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO NACIONAL",
+            "start": 16,
+            "end": 48,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "CONTRATO FIRMADO NO  MBITO DO SISTEMA FINANCEIRO DE HABITAÇÃO - SFH. APÓLICE DE SEGURO HABITACIONAL  OBRIGATÓRIO VINCULADO AO SFH DEVE ABRANGER OS VÍCIOS DE CONSTRUÇÃO DO IMÓVEL",
+            "start": 50,
+            "end": 227,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "PRECEDENTES DESTA TNU E DO STJ.",
+            "start": 229,
+            "end": 260,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "É nula cláusula de seguro habitacional obrigatório, no âmbito dos contratos firmados pelo Sistema Financeiro de Habitação, que exclua os vícios de construção do imóvel, independentemente da natureza pública ou privada das respectivas apólices de seguro",
+            "start": 261,
+            "end": 513,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "Pedido de Uniformização Nacional provido",
+            "start": 514,
+            "end": 554,
+            "type": "GRANTED_TO_REVOKE"
+        },
+        {
+            "selected-text": "Acórdão anulado",
+            "start": 556,
+            "end": 571,
+            "type": "GRANTED_TO_REVOKE"
+        },
+        {
+            "selected-text": "Retorno dos autos à Turma de origem para reexame dos fatos em consonância com a tese ora reafirmada",
+            "start": 573,
+            "end": 672,
+            "type": "GRANTED_TO_REVOKE"
+        }
+    ]
+}

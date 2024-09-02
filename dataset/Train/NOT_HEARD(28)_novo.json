@@ -1,0 +1,41 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. BENEFÍCIO ASSISTENCIAL. PERÍCIA MÉDICA. AUSÊNCIA DE IMPEDIMENTO DE LONGO PRAZO. NÃO REALIZAÇÃO DE LAUDO SOCIAL. ACÓRDÃO RECORRIDO EM CONSON NCIA COM O ENTENDIMENTO FIRMADO PELA TNU. NÃO CONHECIMENTO. 1. A partir da análise das provas produzidas, especialmente a perícia médica, a turma recursal concluiu que não existe impedimento de longo prazo para fins de concessão de BPC. 2. Na análise de benefícios de prestação continuada à pessoa com deficiência - LOAS, caso a perícia médica judicial seja conclusiva e suficiente para afastar o impedimento clínico de longo prazo, observado o conjunto probatório já formado nos autos, não é obrigatória a realização da avaliação social. (PUIL 0514384-09.2019.4.05.8102/CE, relator juiz federal Gustavo Melo Barbosa, 15/02/2022). 3. O acórdão recorrido está em conformidade com a posição firmada pela TNU, de modo que o incidente não deve ser conhecido. ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI",
+            "start": 0,
+            "end": 47,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "BENEFÍCIO ASSISTENCIAL",
+            "start": 49,
+            "end": 71,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "PERÍCIA MÉDICA",
+            "start": 73,
+            "end": 87,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "AUSÊNCIA DE IMPEDIMENTO DE LONGO PRAZO",
+            "start": 89,
+            "end": 127,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "ACÓRDÃO RECORRIDO EM CONSON NCIA COM O ENTENDIMENTO FIRMADO PELA TNU",
+            "start": 161,
+            "end": 229,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "NÃO CONHECIMENTO",
+            "start": 231,
+            "end": 247,
+            "type": "NOT_HEARD"
+        }
+    ]
+}

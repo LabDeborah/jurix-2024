@@ -1,0 +1,65 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO NACIONAL. DIREITO PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO COM CONVERSÃO DE TEMPO ESPECIAL EM COMUM. EXPOSIÇÃO A CALOR PROVENIENTE DE FONTES NATURAIS. TRABALHADOR RURAL. PERÍODO POSTERIOR AO DECRETO 2.172/97. MÁXIMAS DE EXPERIÊNCIA PARA AFERIÇÃO DA NATUREZA DA ATIVIDADE, QUANDO O PPP APURA A TAXA METABÓLICA EM CONFORMIDADE COM O QUADRO 3 DO ANEXO III DA NR-15. INVIABILIDADE. PEDIDO DE UNIFORMIZAÇÃO NACIONAL CONHECIDO E PARCIALMENTE PROVIDO. REMESSA DOS AUTOS À ORIGEM PARA ADEQUAÇÃO DO JULGADO À SEGUINTE TESE: \"A QUALIFICAÇÃO DA ATIVIDADE COMO LEVE, MODERADA OU PESADA, PARA FINS DE DEFINIÇÃO DOS LIMITES DE TOLER NCIA DA EXPOSIÇÃO A CALOR NO TRABALHO INTERMITENTE COM PERÍODOS DE DESCANSO NO PRÓPRIO LOCAL DE TRABALHO, NÃO PODE SER FEITA A PARTIR DA UTILIZAÇÃO DE MÁXIMAS DE EXPERIÊNCIA, SE O PPP APURA A TAXA METABÓLICA EM CONFORMIDADE COM O QUADRO 3, DO ANEXO III, DA NR-15\" ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO NACIONAL",
+            "start": 0,
+            "end": 32,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "DIREITO PREVIDENCIÁRIO",
+            "start": 34,
+            "end": 56,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO COM CONVERSÃO DE TEMPO ESPECIAL EM COMUM",
+            "start": 58,
+            "end": 138,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "EXPOSIÇÃO A CALOR PROVENIENTE DE FONTES NATURAIS",
+            "start": 140,
+            "end": 188,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "TRABALHADOR RURAL",
+            "start": 190,
+            "end": 207,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "PERÍODO POSTERIOR AO DECRETO 2.172/97",
+            "start": 209,
+            "end": 246,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "MÁXIMAS DE EXPERIÊNCIA PARA AFERIÇÃO DA NATUREZA DA ATIVIDADE, QUANDO O PPP APURA A TAXA METABÓLICA EM CONFORMIDADE COM O QUADRO 3 DO ANEXO III DA NR-15",
+            "start": 248,
+            "end": 400,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INVIABILIDADE",
+            "start": 402,
+            "end": 415,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO NACIONAL CONHECIDO E PARCIALMENTE PROVIDO",
+            "start": 417,
+            "end": 482,
+            "type": "GRANTED_TO_REVOKE"
+        },
+        {
+            "selected-text": "REMESSA DOS AUTOS À ORIGEM PARA ADEQUAÇÃO DO JULGADO À SEGUINTE TESE: \"A QUALIFICAÇÃO DA ATIVIDADE COMO LEVE, MODERADA OU PESADA, PARA FINS DE DEFINIÇÃO DOS LIMITES DE TOLER NCIA DA EXPOSIÇÃO A CALOR NO TRABALHO INTERMITENTE COM PERÍODOS DE DESCANSO NO PRÓPRIO LOCAL DE TRABALHO, NÃO PODE SER FEITA A PARTIR DA UTILIZAÇÃO DE MÁXIMAS DE EXPERIÊNCIA, SE O PPP APURA A TAXA METABÓLICA EM CONFORMIDADE COM O QUADRO 3, DO ANEXO III, DA NR-15\"",
+            "start": 484,
+            "end": 921,
+            "type": "GRANTED_TO_REVOKE"
+        }
+    ]
+}

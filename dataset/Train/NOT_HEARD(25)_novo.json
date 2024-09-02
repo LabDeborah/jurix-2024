@@ -1,0 +1,41 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. PREVIDENCIÁRIO. VISÃO MONOCULAR. DISPENSA DE CARÊNCIA. PRECEDENTE DA TNU. TESE FIRMADA NO PEDILEF N.º 0504218-65.2017.4.05.8302: \"INDEPENDE DE CARÊNCIA A CONCESSÃO DE AUXÍLIO-DOENÇA QUANDO A INCAPACIDADE LABORATIVA DO SEGURADO DECORRER DE CEGUEIRA MONOCULAR, UMA VEZ QUE AS REGRAS DOS ART. 151 DA LEI 8.213/91 E ART. 1O DA PORTARIA INTERMINISTERIAL DOS MINISTROS DA PREVIDÊNCIA E ASSISTÊNCIA SOCIAL E DA SAÚDE N. 2.998/2001 NÃO FAZEM DISTINÇÃO ENTRE CEGUEIRA BINOCULAR E MONOCULAR\". ACÓRDÃO EM CONSON NCIA COM A TESE FIRMADA. PEDIDO DE UNIFORMIZAÇÃO NÃO CONHECIDO. ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL",
+            "start": 0,
+            "end": 55,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "PREVIDENCIÁRIO",
+            "start": 57,
+            "end": 71,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "VISÃO MONOCULAR",
+            "start": 73,
+            "end": 88,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "DISPENSA DE CARÊNCIA",
+            "start": 90,
+            "end": 110,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "ACÓRDÃO EM CONSON NCIA COM A TESE FIRMADA",
+            "start": 540,
+            "end": 581,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO NÃO CONHECIDO",
+            "start": 583,
+            "end": 620,
+            "type": "NOT_HEARD"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. ADMINISTRATIVO. PENSÃO ESPECIAL A EX-COMBATENTE. PRETENSÃO DE REVERSÃO DO BENEFÍCIO DA FALECIDA VIÚVA PARA FILHAS MAIORES E NÃO INVÁLIDAS. ENQUADRAMENTO, PELO ACÓRDÃO RECORRIDO, NO REGIME JURÍDICO DISCIPLINADO PELA LEI 6.592/1978. PARADIGMAS DO STJ QUE CUIDAM DAS DIFERENÇAS ENTRE OS BENEFÍCIOS PREVISTOS NA LEI 4.242/1963 E NO ART. 53 DO ADCT. ESPÉCIES DIVERSAS DE PENSÕES A EX-COMBATENTES. NÃO DEMONSTRADAS A IDENTIDADE FÁTICA E A CONTRARIEDADE DE TESES JURÍDICAS ENTRE OS ACÓRDÃOS CONFRONTADOS. QUESTÃO DE ORDEM 22 DA TNU. RECURSO DA PARTE AUTORA NÃO CONHECIDO. ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL",
+            "start": 0,
+            "end": 55,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "ADMINISTRATIVO",
+            "start": 57,
+            "end": 71,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "PENSÃO ESPECIAL A EX-COMBATENTE",
+            "start": 73,
+            "end": 104,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "PRETENSÃO DE REVERSÃO DO BENEFÍCIO DA FALECIDA VIÚVA PARA FILHAS MAIORES E NÃO INVÁLIDAS",
+            "start": 106,
+            "end": 194,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "ENQUADRAMENTO, PELO ACÓRDÃO RECORRIDO, NO REGIME JURÍDICO DISCIPLINADO PELA LEI 6.592/1978",
+            "start": 196,
+            "end": 286,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "ESPÉCIES DIVERSAS DE PENSÕES A EX-COMBATENTES",
+            "start": 402,
+            "end": 447,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "NÃO DEMONSTRADAS A IDENTIDADE FÁTICA E A CONTRARIEDADE DE TESES JURÍDICAS ENTRE OS ACÓRDÃOS CONFRONTADOS",
+            "start": 449,
+            "end": 553,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "RECURSO DA PARTE AUTORA NÃO CONHECIDO",
+            "start": 583,
+            "end": 620,
+            "type": "NOT_HEARD"
+        }
+    ]
+}

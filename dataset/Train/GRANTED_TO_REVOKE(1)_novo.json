@@ -1,0 +1,59 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. DIREITO PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. REAFIRMAÇÃO DA DER. STJ, TEMA 995. BENEFÍCIO MAIS VANTAJOSO. POSSIBILIDADE. INCIDENTE. PROVIMENTO. 1 - Segundo o acórdão recorrido, a reafirmação da DER é cabível somente se o segurado não preencher o tempo necessário à concessão do benefício, não se aplicando para a obtenção do melhor benefício.  2 - Essa interpretação destoa da jurisprudência da TNU, que, em casos semelhantes, tem reconhecido o direito ao benefício mais vantajoso para o segurado pela via da reafirmação da DER.  3 - Pedido de uniformização provido, com encaminhamento dos autos à turma recursal, para adequação do julgamento. ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI",
+            "start": 0,
+            "end": 47,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "DIREITO PREVIDENCIÁRIO",
+            "start": 49,
+            "end": 71,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO",
+            "start": 73,
+            "end": 112,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "REAFIRMAÇÃO DA DER",
+            "start": 114,
+            "end": 132,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "TEMA 995",
+            "start": 139,
+            "end": 147,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "BENEFÍCIO MAIS VANTAJOSO",
+            "start": 149,
+            "end": 173,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "POSSIBILIDADE",
+            "start": 175,
+            "end": 188,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "PROVIMENTO",
+            "start": 201,
+            "end": 211,
+            "type": "GRANTED_TO_REVOKE"
+        },
+        {
+            "selected-text": "Pedido de uniformização provido, com encaminhamento dos autos à turma recursal, para adequação do julgamento.",
+            "start": 201,
+            "end": 211,
+            "type": "GRANTED_TO_REVOKE"
+        }
+    ]
+}

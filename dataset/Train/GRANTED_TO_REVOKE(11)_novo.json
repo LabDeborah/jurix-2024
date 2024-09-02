@@ -1,0 +1,35 @@
+{
+    "source": "  PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. CUMULAÇÃO INDEVIDA DE BENEFÍCIOS. RENDA MENSAL VITALÍCIA E PENSÃO POR MORTE. DECADÊNCIA. ART. 103-A, DA LEI 8.213/1991. NÃO INCIDÊNCIA. PROVIMENTO DO INCIDENTE. RETORNO PARA ADEQUAÇÃO DO JULGAMENTO. 1 - De acordo com precedentes da TNU, o art. 103-A da Lei 8.213/1991, que prevê prazo decadencial para o INSS revisar ato de concessão de benefício previdenciário, não se aplica em relação à cessação de auxílio-acidente indevidamente cumulado com aposentadoria. 2 - O mesmo entendimento deve orientar os casos de cumulação indevida de renda mensal vitalícia e pensão por morte.  3 - Provimento do incidente. ",
+    "items": [
+        {
+            "selected-text": "RENDA MENSAL VITALÍCIA E PENSÃO POR MORTE",
+            "start": 85,
+            "end": 126,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "DECADÊNCIA",
+            "start": 128,
+            "end": 138,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "ART. 103-A, DA LEI 8.213/1991",
+            "start": 140,
+            "end": 169,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "RETORNO PARA ADEQUAÇÃO DO JULGAMENTO",
+            "start": 212,
+            "end": 248,
+            "type": "GRANTED_TO_REVOKE"
+        },
+        {
+            "selected-text": " O mesmo entendimento deve orientar os casos de cumulação indevida de renda mensal vitalícia e pensão por morte",
+            "start": 515,
+            "end": 626,
+            "type": "RATIO_DECIDENDI"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "source": " PEDIDO DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. AUSÊNCIA DE COTEJO ANALÍTICO E DEMONSTRAÇÃO DA DIVERGÊNCIA ENTRE A DECISÃO RECORRIDA E PARADIGMA APONTADO. ART. 14, V, C, DO RITNU. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE O CASO CONCRETO E O PARADIGMA APRESENTADO. QUESTÃO DE ORDEM N° 22 DA TNU.  IMPOSSIBILIDADE DE REEXAME DE MATÉRIA FÁTICA. SÚMULA 42 DA TNU. MODIFICAÇÃO DO PEDIDO INICIAL. MATÉRIA PROCESSUAL. SÚMULA 43 DA TNU.  INCIDENTE NÃO CONHECIDO. ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA",
+            "start": 1,
+            "end": 42,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "INCIDENTE NÃO CONHECIDO",
+            "start": 462,
+            "end": 485,
+            "type": "NOT_HEARD"
+        },
+        {
+            "selected-text": "SÚMULA 43 DA TNU",
+            "start": 443,
+            "end": 459,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "MATÉRIA PROCESSUAL",
+            "start": 423,
+            "end": 441,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "MODIFICAÇÃO DO PEDIDO INICIAL",
+            "start": 392,
+            "end": 421,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "SÚMULA 42 DA TNU",
+            "start": 374,
+            "end": 390,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "IMPOSSIBILIDADE DE REEXAME DE MATÉRIA FÁTICA",
+            "start": 328,
+            "end": 372,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "QUESTÃO DE ORDEM N° 22 DA TNU",
+            "start": 296,
+            "end": 325,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE O CASO CONCRETO E O PARADIGMA APRESENTADO",
+            "start": 217,
+            "end": 294,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "AUSÊNCIA DE COTEJO ANALÍTICO E DEMONSTRAÇÃO DA DIVERGÊNCIA ENTRE A DECISÃO RECORRIDA E PARADIGMA APONTADO. ART. 14, V, C, DO RITNU",
+            "start": 85,
+            "end": 215,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO",
+            "start": 44,
+            "end": 83,
+            "type": "SUBJECT"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. TRIBUTÁRIO. PRESCRIÇÃO. REPETIÇÃO DE INDÉBITO. IMPOSTO DE RENDA. TERMO INICIAL. ACÓRDÃO EM DIVERGÊNCIA EM RELAÇÃO AO ENTENDIMENTO FIRMADO PELO STJ NO TEMA 138. INCIDENTE PROVIDO. 1. O prazo de prescrição das ações de repetição de tributos sujeitos a lançamento por homologação é contado desde o pagamento antecipado (e não a partir da declaração de ajuste anual), na forma do art. 150, § 1º, e 168, I, do CTN, e da tese fixada pelo STJ no tema 138. 2. Incidente conhecido e provido, com o retorno do caso à turma recursal do origem, para adequação do julgamento à interpretação uniformizada. ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI",
+            "start": 0,
+            "end": 47,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "TRIBUTÁRIO",
+            "start": 49,
+            "end": 59,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "PRESCRIÇÃO",
+            "start": 61,
+            "end": 71,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "REPETIÇÃO DE INDÉBITO",
+            "start": 73,
+            "end": 94,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "IMPOSTO DE RENDA",
+            "start": 96,
+            "end": 112,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "TERMO INICIAL",
+            "start": 114,
+            "end": 127,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "ACÓRDÃO EM DIVERGÊNCIA EM RELAÇÃO AO ENTENDIMENTO FIRMADO PELO STJ NO TEMA 138",
+            "start": 129,
+            "end": 207,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "Incidente conhecido e provido, com o retorno do caso à turma recursal do origem, para adequação do julgamento à interpretação uniformizada.",
+            "start": 209,
+            "end": 226,
+            "type": "GRANTED_TO_REVOKE"
+        }
+    ]
+}

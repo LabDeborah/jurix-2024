@@ -1,0 +1,41 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO. BENEFÍCIO POR INCAPACIDADE. AUXÍLIO-DOENÇA. FALTA  DE QUALIDADE DE SEGURADO NA DATA DE INCAPACIDADE. DESEMPREGO INVOLUNTÁRIO NÃO COMPROVADO. NÃO INCIDÊNCIA DA PRORROGAÇÃO DO PERÍODO DE GRAÇA DE QUE TRATA O ARTIGO 15, §2º, DA LEI 8.213/91. AUSÊNCIA DE SIMILITUDE FÁTICA COM O ACÓRDÃO RECORRIDO. INCIDENTE NÃO CONHECIDO",
+    "items": [
+        {
+            "selected-text": "INCIDENTE NÃO CONHECIDO",
+            "start": 319,
+            "end": 342,
+            "type": "NOT_HEARD"
+        },
+        {
+            "selected-text": "AUSÊNCIA DE SIMILITUDE FÁTICA COM O ACÓRDÃO RECORRIDO",
+            "start": 264,
+            "end": 317,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO",
+            "start": 0,
+            "end": 23,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "BENEFÍCIO POR INCAPACIDADE",
+            "start": 25,
+            "end": 51,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "AUXÍLIO-DOENÇA",
+            "start": 53,
+            "end": 67,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "FALTA  DE QUALIDADE DE SEGURADO NA DATA DE INCAPACIDADE",
+            "start": 69,
+            "end": 124,
+            "type": "SUBJECT"
+        }
+    ]
+}

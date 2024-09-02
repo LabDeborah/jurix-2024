@@ -1,0 +1,29 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA NO INCIDENTE SUSCITADO PELA PARTE AUTORA. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O TEMA 192/TNU. INCIDENTE NÃO CONHECIDO NOS TERMOS DA QUESTÃO DE ORDEM 13/TNU.",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL",
+            "start": 0,
+            "end": 55,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA NO INCIDENTE SUSCITADO PELA PARTE AUTORA",
+            "start": 57,
+            "end": 141,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O TEMA 192/TNU",
+            "start": 143,
+            "end": 195,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INCIDENTE NÃO CONHECIDO NOS TERMOS DA QUESTÃO DE ORDEM 13/TNU",
+            "start": 197,
+            "end": 258,
+            "type": "NOT_HEARD"
+        }
+    ]
+}

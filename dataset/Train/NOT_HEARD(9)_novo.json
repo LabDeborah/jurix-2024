@@ -1,0 +1,47 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. SEGURO-DESEMPREGO. SÓCIO DE EMPRESA. AUSÊNCIA DE RENDA. REEXAME DAS PROVAS. SÚMULA 42 DA TNU. INCIDENTE NÃO CONHECIDO. O acórdão recorrido está fundamentado na análise dos elementos de prova, tendo a turma recursal considerado suficiente declaração fiscal extemporânea para revelar a ausência de rendimentos da empresa da qual o autor seria sócio. Rever essa conclusão passa por reexaminar a prova, providência incabível nos limites do incidente de uniformização, nos termos da súmula 42 da TNU.  ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI",
+            "start": 0,
+            "end": 47,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "SEGURO-DESEMPREGO",
+            "start": 49,
+            "end": 66,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "SÓCIO DE EMPRESA",
+            "start": 68,
+            "end": 84,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "AUSÊNCIA DE RENDA",
+            "start": 86,
+            "end": 103,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "REEXAME DAS PROVAS",
+            "start": 105,
+            "end": 123,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "SÚMULA 42 DA TNU",
+            "start": 125,
+            "end": 141,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "Rever essa conclusão passa por reexaminar a prova, providência incabível nos limites do incidente de uniformização, nos termos da súmula 42 da TNU",
+            "start": 397,
+            "end": 543,
+            "type": "RATIO_DECIDENDI"
+        }
+    ]
+}

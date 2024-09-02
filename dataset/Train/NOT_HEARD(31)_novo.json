@@ -1,0 +1,41 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. PREVIDENCIÁRIO. DATA DE INÍCIO DA PENSÃO POR MORTE. ACÓRDÃO QUE APRESENTA MAIS DE UM FUNDAMENTO E NEM TODOS SÃO OBJETO DO RECURSO. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE O ACÓRDÃO IMPUGNADO E OS PARADIGMAS APRESENTADOS. RECURSO NÃO CONHECIDO.",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL",
+            "start": 0,
+            "end": 55,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "PREVIDENCIÁRIO",
+            "start": 57,
+            "end": 71,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "DATA DE INÍCIO DA PENSÃO POR MORTE",
+            "start": 73,
+            "end": 107,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "ACÓRDÃO QUE APRESENTA MAIS DE UM FUNDAMENTO E NEM TODOS SÃO OBJETO DO RECURSO",
+            "start": 109,
+            "end": 186,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE O ACÓRDÃO IMPUGNADO E OS PARADIGMAS APRESENTADOS",
+            "start": 188,
+            "end": 272,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "RECURSO NÃO CONHECIDO",
+            "start": 274,
+            "end": 295,
+            "type": "NOT_HEARD"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. PREVIDENCIÁRIO. AUXÍLIO-RECLUSÃO. ALEGAÇÃO DE AUSÊNCIA DE RENDA NO MOMENTO DO  RECOLHIMENTO À PRISÃO. IMPRESTABILIDADE DE PRECEDENTES DE TRIBUNAIS REGIONAIS FEDERAIS COMO PARADIGMAS. INAPLICABILIDADE DA TESE FIRMADA NO TEMA 896 DO STJ PARA FATOS GERADORES POSTERIORES À ALTERAÇÃO DO ART. 80 E §§ DA LEI 8.213/91, PELA MP 871/2019, DE 18/01/2019. AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA COM PUIL 5004717-69.2011.4.04.7005, DA TNU, QUE DISCUTIU PANORAMA NORMATIVO ANTERIOR. QUESTÃO DE ORDEM 22 DA TNU. CRITÉRIO DE CÁLCULO DA RENDA MENSAL BRUTA PARA ENQUADRAMENTO DO SEGURADO COMO DE BAIXA RENDA, PREVISTO NO § 4º DO ART. 80 DA LEI 8.213/91, INCLUÍDO PELA MP 871/2019. INEXISTÊNCIA DE MANIFESTAÇÃO EXPRESSA NO ACÓRDÃO RECORRIDO SOBRE A MATÉRIA. NÃO OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. FALTA DE PREQUESTIONAMENTO. QUESTÃO DE ORDEM 35 DA TNU. RECURSO DA PARTE AUTORA NÃO CONHECIDO.  ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL",
+            "start": 0,
+            "end": 55,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "PREVIDENCIÁRIO",
+            "start": 57,
+            "end": 71,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "AUXÍLIO-RECLUSÃO",
+            "start": 73,
+            "end": 89,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "ALEGAÇÃO DE AUSÊNCIA DE RENDA NO MOMENTO DO  RECOLHIMENTO À PRISÃO",
+            "start": 91,
+            "end": 157,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "IMPRESTABILIDADE DE PRECEDENTES DE TRIBUNAIS REGIONAIS FEDERAIS COMO PARADIGMAS",
+            "start": 159,
+            "end": 238,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INAPLICABILIDADE DA TESE FIRMADA NO TEMA 896 DO STJ PARA FATOS GERADORES POSTERIORES À ALTERAÇÃO DO ART. 80 E §§ DA LEI 8.213/91, PELA MP 871/2019, DE 18/01/2019",
+            "start": 240,
+            "end": 401,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA",
+            "start": 403,
+            "end": 441,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "QUESTÃO DE ORDEM 22 DA TNU",
+            "start": 528,
+            "end": 554,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "FALTA DE PREQUESTIONAMENTO",
+            "start": 838,
+            "end": 864,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "RECURSO DA PARTE AUTORA NÃO CONHECIDO",
+            "start": 894,
+            "end": 931,
+            "type": "NOT_HEARD"
+        }
+    ]
+}
