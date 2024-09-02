@@ -1,0 +1,71 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO NACIONAL. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. RECONHECIMENTO DE TEMPO ESEPCIAL. ACÓRDÃO DE TURMA RECURSAL DA MESMA REGIÃO DA DECISÃO IMPUGNADA NÃO CONSTITUI PARADIGMA VÁLIDO PARA EMBASAR PEDIDO DE UNIFORMIZAÇÃO. INCIDENTE NÃO CONHECIDO EM RELAÇÃO A ESTE PONTO.  REAFIRMAÇÃO DA DER. BENEFÍCIO MAIS VANTAJOSO. TEMA 995 DO STJ. PRECEDENTES DA TURMA NACIONAL DE UNIFORMIZAÇÃO QUE ADMITEM A REAFIRMAÇÃO DA DER, PARA O FIM DE OBTENÇÃO DE BENEFÍCIO MAIS VANTAJOSO. PEDIDO DE UNIFORMIZAÇÃO NACIONAL PARCIALMENTE CONHECIDO E PROVIDO. REMESSA À ORIGEM PARA ADEQUAÇÃO DO JULGADO. ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO NACIONAL",
+            "start": 0,
+            "end": 32,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO",
+            "start": 34,
+            "end": 73,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "RECONHECIMENTO DE TEMPO ESEPCIAL",
+            "start": 75,
+            "end": 107,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "ACÓRDÃO DE TURMA RECURSAL DA MESMA REGIÃO DA DECISÃO IMPUGNADA NÃO CONSTITUI PARADIGMA VÁLIDO PARA EMBASAR PEDIDO DE UNIFORMIZAÇÃO",
+            "start": 109,
+            "end": 239,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INCIDENTE NÃO CONHECIDO EM RELAÇÃO A ESTE PONTO",
+            "start": 241,
+            "end": 288,
+            "type": "NOT_HEARD"
+        },
+        {
+            "selected-text": "REAFIRMAÇÃO DA DER",
+            "start": 291,
+            "end": 309,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "BENEFÍCIO MAIS VANTAJOSO",
+            "start": 311,
+            "end": 335,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "TEMA 995 DO STJ",
+            "start": 337,
+            "end": 352,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "PRECEDENTES DA TURMA NACIONAL DE UNIFORMIZAÇÃO QUE ADMITEM A REAFIRMAÇÃO DA DER, PARA O FIM DE OBTENÇÃO DE BENEFÍCIO MAIS VANTAJOSO",
+            "start": 354,
+            "end": 485,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "REMESSA À ORIGEM PARA ADEQUAÇÃO DO JULGADO",
+            "start": 554,
+            "end": 596,
+            "type": "GRANTED_TO_REVOKE"
+        },
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO NACIONAL PARCIALMENTE CONHECIDO E PROVIDO",
+            "start": 487,
+            "end": 552,
+            "type": "GRANTED_TO_REVOKE"
+        }
+    ]
+}

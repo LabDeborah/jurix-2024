@@ -1,0 +1,47 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO NACIONAL. DIREITO PROCESSUAL CIVIL. DIREITO PREVIDENCIÁRIO. EXPEDIÇÃO DE CERTIDÃO DE TEMPO DE SERVIÇO PELO INSS RELATIVA AO PERÍODO EM QUE ESTUDOU EM ESCOLA TÉCNICA ESTADUAL. HIPÓTESE EM QUE A AUSÊNCIA DE MANIFESTAÇÃO DAS INST NCIAS ORDINÁRIAS ACERCA DA QUESTÃO DE DIREITO SUSCITADAS PELO RÉU IMPEDIU A FORMAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. ACÓRDÃO ANULADO, COM RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO. PEDIDO DE UNIFORMIZAÇÃO NACIONAL PREJUDICADO",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO NACIONAL",
+            "start": 0,
+            "end": 32,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "DIREITO PROCESSUAL CIVIL",
+            "start": 34,
+            "end": 58,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "DIREITO PREVIDENCIÁRIO",
+            "start": 60,
+            "end": 82,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "EXPEDIÇÃO DE CERTIDÃO DE TEMPO DE SERVIÇO PELO INSS RELATIVA AO PERÍODO EM QUE ESTUDOU EM ESCOLA TÉCNICA ESTADUAL",
+            "start": 84,
+            "end": 197,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "HIPÓTESE EM QUE A AUSÊNCIA DE MANIFESTAÇÃO DAS INST NCIAS ORDINÁRIAS ACERCA DA QUESTÃO DE DIREITO SUSCITADAS PELO RÉU IMPEDIU A FORMAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL",
+            "start": 199,
+            "end": 366,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "ACÓRDÃO ANULADO, COM RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO",
+            "start": 368,
+            "end": 436,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO NACIONAL PREJUDICADO",
+            "start": 438,
+            "end": 482,
+            "type": "RENDERED_MOOT"
+        }
+    ]
+}

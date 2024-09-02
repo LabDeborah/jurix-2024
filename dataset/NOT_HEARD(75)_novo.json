@@ -1,0 +1,35 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO. FALTA DE INTERESSE RECURSAL. TEMA 177. RAZÕES DISSOCIADAS DO DECIDIDO NO ACÓRDÃO. INCIDENTE NÃO CONHECIDO. ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO",
+            "start": 0,
+            "end": 23,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "FALTA DE INTERESSE RECURSAL",
+            "start": 25,
+            "end": 52,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "TEMA 177",
+            "start": 54,
+            "end": 62,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "RAZÕES DISSOCIADAS DO DECIDIDO NO ACÓRDÃO",
+            "start": 64,
+            "end": 105,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INCIDENTE NÃO CONHECIDO",
+            "start": 107,
+            "end": 130,
+            "type": "NOT_HEARD"
+        }
+    ]
+}

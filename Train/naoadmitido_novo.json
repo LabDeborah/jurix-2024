@@ -1,0 +1,77 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO DE LEI FEDERAL. PROCESSO CIVIL. PROGRESSÃO FUNCIONAL. MAGISTÉRIO SUPERIOR. PROGRESSÃO POR MÉRITO. EFEITOS FINANCEIROS. RETROAÇÃO. DATA DO IMPLEMENTO DAS CONDIÇÕES. ATO ADMINISTRATIVO DE CONCESSÃO MERAMENTE DECLARATÓRIO. REITERAÇÃO DA TESE FIRMADA NOS PUILS NS. 0505603-09.2016.4.05.8100 E 5010485-98.2019.4.04.7100, SEGUNDO A QUAL \"NO CASO DA CARREIRA DE MAGISTÉRIO FEDERAL, A PROGRESSÃO E A PROMOÇÃO FUNCIONAIS, BASEADAS NO ARTIGO 12 DA LEI 12.772/12, BEM COMO OS RESPECTIVOS EFEITOS FINANCEIROS, DEVEM RETROAGIR À DATA EM QUE IMPLEMENTADOS OS PRESSUPOSTOS PARA TANTO\". ACÓRDÃO COMBATIDO EM CONSON NCIA COM ENTENDIMENTO DESTA TNU. QUESTÃO DE ORDEM 13 DESTA TNU. INCIDENTE NÃO ADMITIDO. ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE LEI FEDERAL",
+            "start": 0,
+            "end": 38,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "PROCESSO CIVIL",
+            "start": 40,
+            "end": 54,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "PROGRESSÃO FUNCIONAL",
+            "start": 56,
+            "end": 76,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "MAGISTÉRIO SUPERIOR",
+            "start": 78,
+            "end": 97,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "PROGRESSÃO POR MÉRITO",
+            "start": 99,
+            "end": 120,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "EFEITOS FINANCEIROS",
+            "start": 122,
+            "end": 141,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "RETROAÇÃO",
+            "start": 143,
+            "end": 152,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "DATA DO IMPLEMENTO DAS CONDIÇÕES",
+            "start": 154,
+            "end": 186,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "ATO ADMINISTRATIVO DE CONCESSÃO MERAMENTE DECLARATÓRIO",
+            "start": 188,
+            "end": 242,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "REITERAÇÃO DA TESE FIRMADA NOS PUILS NS. 0505603-09.2016.4.05.8100 E 5010485-98.2019.4.04.7100, SEGUNDO A QUAL \"NO CASO DA CARREIRA DE MAGISTÉRIO FEDERAL, A PROGRESSÃO E A PROMOÇÃO FUNCIONAIS, BASEADAS NO ARTIGO 12 DA LEI 12.772/12, BEM COMO OS RESPECTIVOS EFEITOS FINANCEIROS, DEVEM RETROAGIR À DATA EM QUE IMPLEMENTADOS OS PRESSUPOSTOS PARA TANTO\". ACÓRDÃO COMBATIDO EM CONSON NCIA COM ENTENDIMENTO DESTA TNU",
+            "start": 244,
+            "end": 654,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "QUESTÃO DE ORDEM 13 DESTA TNU",
+            "start": 656,
+            "end": 685,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INCIDENTE NÃO ADMITIDO",
+            "start": 687,
+            "end": 709,
+            "type": "NOT_GRANTED"
+        }
+    ]
+}

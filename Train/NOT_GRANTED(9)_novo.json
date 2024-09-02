@@ -1,0 +1,35 @@
+{
+    "source": "PREVIDENCIÁRIO. PEDIDO DE UNIFORMIZAÇÃO NACIONAL. CONTRIBUIÇÃO PREVIDENCIÁRIA INCIDENTE SOBRE VALORES RECEBIDOS POR FORÇA DE DECISÃO JUDICIAL TRANSITADA EM JULGADO. NÃO DEMONSTRAÇÃO DE DIVERGÊNCIA ENTRE O ACÓRDÃO RECORRIDO E O PARADIGMA COLCACIONADO.  INCIDÊNCIA DA QUESTÃO DE ORDEM 22 DA TNU. INADMISSÃO DO PEDIDO DE UNIFORMIZAÇÃO. O Superior Tribunal de Justiça firmou entendimento em sede de regime representativo de controvérsia de que: \"A retenção na fonte da contribuição do Plano de Seguridade do Servidor Público - PSS, incidente sobre valores pagos em cumprimento de decisão judicial, prevista no art. 16-A da Lei 10.887/04, deve ser promovida independentemente de condenação ou de prévia autorização no título executivo\" (Resp nº 1.196.777 - RS, DJ 04/11/2010, 1ª Seção do Superior Tribunal de Justiça, sob o regime representativo de controvérsia).A retenção de contribuições para o Plano de Seguridade Social do servidor público prevista na Lei n° 10.887/04 visa facilitar a arrecadação das referidas exações e não obsta que a parte promova ação própria de restituição de indébito visando discutir a legitimidade das contribuições previdenciárias incidentes sobre os valores recebidos por força de decisão judicial transitada em julgado, considerando sua natureza, base de cálculo a incidir, regime de tributação a ser adotado e o real valor devido - e se devido - das contribuições previdenciárias. Precedente do STJ.Ausência de demonstração de similitude entre os julgados, mediante o devido cotejo analítico.Pedido de Uniformização inadmitido.  ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO NACIONAL",
+            "start": 16,
+            "end": 48,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "CONTRIBUIÇÃO PREVIDENCIÁRIA INCIDENTE SOBRE VALORES RECEBIDOS POR FORÇA DE DECISÃO JUDICIAL TRANSITADA EM JULGADO",
+            "start": 50,
+            "end": 163,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "NÃO DEMONSTRAÇÃO DE DIVERGÊNCIA ENTRE O ACÓRDÃO RECORRIDO E O PARADIGMA COLCACIONADO",
+            "start": 165,
+            "end": 249,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INCIDÊNCIA DA QUESTÃO DE ORDEM 22 DA TNU",
+            "start": 252,
+            "end": 292,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INADMISSÃO DO PEDIDO DE UNIFORMIZAÇÃO",
+            "start": 294,
+            "end": 331,
+            "type": "NOT_GRANTED"
+        }
+    ]
+}

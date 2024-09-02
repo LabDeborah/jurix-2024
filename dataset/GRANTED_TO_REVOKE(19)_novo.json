@@ -1,0 +1,35 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO. REAFIRMAÇÃO DA DER PARA OBTENÇÃO DE BENEFÍCIO MAIS VANTAJOSO. POSSIBILIDADE. PRECEDENTES DA TURMA (0000932-44.2020.4.03.6312 - LUCIANE MERLIN CLÈVE KRAVETZ). REMESSA À ORIGEM PARA ADEQUAÇÃO. PROVIMENTO. \t\t\t\t\t\t\t  ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO",
+            "start": 0,
+            "end": 23,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "REAFIRMAÇÃO DA DER PARA OBTENÇÃO DE BENEFÍCIO MAIS VANTAJOSO",
+            "start": 25,
+            "end": 85,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "POSSIBILIDADE",
+            "start": 87,
+            "end": 100,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "PRECEDENTES DA TURMA (0000932-44.2020.4.03.6312 - LUCIANE MERLIN CLÈVE KRAVETZ)",
+            "start": 102,
+            "end": 181,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "REMESSA À ORIGEM PARA ADEQUAÇÃO. PROVIMENTO",
+            "start": 183,
+            "end": 226,
+            "type": "GRANTED_TO_REVOKE"
+        }
+    ]
+}

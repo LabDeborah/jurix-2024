@@ -1,0 +1,41 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. AUXÍLIO CESTA ALIMENTAÇÃO. PERCEPÇÃO EM VIRTUDE DE ANTECIPAÇÃO DE TUTELA POSTERIORMENTE REVOGADA. RESTITUIÇÃO DO IMPOSTO DE RENDA EM VIRTUDE DO DESFAZIMENTO DO FATO GERADOR.  FUNDAMENTO SUFICIENTE NÃO ABRANGIDO NAS RAZÕES DO PEDIDO DE UNIFORMIZAÇÃO. PEDILEF INADMITIDO NOS TERMOS DO ART.14, V, F DO RITNU.   ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL",
+            "start": 0,
+            "end": 55,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "AUXÍLIO CESTA ALIMENTAÇÃO",
+            "start": 57,
+            "end": 82,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "PERCEPÇÃO EM VIRTUDE DE ANTECIPAÇÃO DE TUTELA POSTERIORMENTE REVOGADA",
+            "start": 84,
+            "end": 153,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "RESTITUIÇÃO DO IMPOSTO DE RENDA EM VIRTUDE DO DESFAZIMENTO DO FATO GERADOR",
+            "start": 155,
+            "end": 229,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "FUNDAMENTO SUFICIENTE NÃO ABRANGIDO NAS RAZÕES DO PEDIDO DE UNIFORMIZAÇÃO",
+            "start": 232,
+            "end": 305,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "PEDILEF INADMITIDO NOS TERMOS DO ART.14, V, F DO RITNU",
+            "start": 307,
+            "end": 361,
+            "type": "NOT_GRANTED"
+        }
+    ]
+}

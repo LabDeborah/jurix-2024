@@ -1,0 +1,59 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. DIREITO ADMINISTRATIVO. AUXÍLIO-EMERGENCIAL 2021. MEDIDA PROVISÓRIA 1.039/2021. PERCEPÇÃO DE SALÁRIO-MATERNIDADE. CANCELAMENTO E NÃO MERA SUSPENSÃO DO AUXÍLIO-EMERGENCIAL. APLICAÇÃO DO PRECEDENTE ASSENTADO PELA TNU NO PEDILEF  5087157-79.2021.4.04.7100/RS. MESMA RATIO DECIDENDI. RECURSO CONHECIDO E IMPROVIDO.  ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI",
+            "start": 0,
+            "end": 47,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "DIREITO ADMINISTRATIVO",
+            "start": 49,
+            "end": 71,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "AUXÍLIO-EMERGENCIAL 2021",
+            "start": 73,
+            "end": 97,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "MEDIDA PROVISÓRIA 1.039/2021",
+            "start": 99,
+            "end": 127,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "PERCEPÇÃO DE SALÁRIO-MATERNIDADE",
+            "start": 129,
+            "end": 161,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "CANCELAMENTO E NÃO MERA SUSPENSÃO DO AUXÍLIO-EMERGENCIAL",
+            "start": 163,
+            "end": 219,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "APLICAÇÃO DO PRECEDENTE ASSENTADO PELA TNU NO PEDILEF  5087157-79.2021.4.04.7100/RS",
+            "start": 221,
+            "end": 304,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "MESMA RATIO DECIDENDI",
+            "start": 306,
+            "end": 327,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "RECURSO CONHECIDO E IMPROVIDO",
+            "start": 329,
+            "end": 358,
+            "type": "NOT_GRANTED"
+        }
+    ]
+}

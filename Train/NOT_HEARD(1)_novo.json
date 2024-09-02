@@ -1,0 +1,41 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO. BENEFÍCIO DE INCAPACIDADE. PEDIDO DE REVISÃO DA PROVA. INADMISSIBILIADE. SÚMULA DA TNU. PEDIDO NÃO CONHECIDO.   ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO",
+            "start": 0,
+            "end": 23,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "BENEFÍCIO DE INCAPACIDADE",
+            "start": 25,
+            "end": 50,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "PEDIDO DE REVISÃO DA PROVA",
+            "start": 52,
+            "end": 78,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "INADMISSIBILIADE",
+            "start": 80,
+            "end": 96,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "SÚMULA DA TNU",
+            "start": 98,
+            "end": 111,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "PEDIDO NÃO CONHECIDO",
+            "start": 113,
+            "end": 133,
+            "type": "NOT_HEARD"
+        }
+    ]
+}

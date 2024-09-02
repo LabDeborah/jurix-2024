@@ -1,0 +1,47 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO NACIONAL. DIREITO PREVIDENCIÁRIO. CARACTERIZAÇÃO DE TEMPO ESPECIAL. EXPOSIÇÃO A AGENTES BIOLÓGICOS. ATIVIDADES DE SERVENTE, AUXILIAR E TÉCNICA DE ENFERMAGEM DESEMPENHADAS EM AMBIENTE COM EXPOSIÇÃO AUMENTADA AO RISCO DE CONTAMINAÇÃO. ACÓRDÃO RECORRIDO QUE CONTRARIA O ENTENDIMENTO DA TURMA NACIONAL DE UNIFORMIZAÇÃO. PEDIDO DE UNIFORMIZAÇÃO NACIONAL CONHECIDO E PROVIDO. ENCAMINHAMENTO À TURMA DE ORIGEM PARA ADEQUAÇÃO DO JULGADO",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO NACIONAL",
+            "start": 0,
+            "end": 32,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "DIREITO PREVIDENCIÁRIO",
+            "start": 34,
+            "end": 56,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "CARACTERIZAÇÃO DE TEMPO ESPECIAL",
+            "start": 58,
+            "end": 90,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "EXPOSIÇÃO A AGENTES BIOLÓGICOS",
+            "start": 92,
+            "end": 122,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "ATIVIDADES DE SERVENTE, AUXILIAR E TÉCNICA DE ENFERMAGEM DESEMPENHADAS EM AMBIENTE COM EXPOSIÇÃO AUMENTADA AO RISCO DE CONTAMINAÇÃO",
+            "start": 124,
+            "end": 255,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "ACÓRDÃO RECORRIDO QUE CONTRARIA O ENTENDIMENTO DA TURMA NACIONAL DE UNIFORMIZAÇÃO",
+            "start": 257,
+            "end": 338,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "ENCAMINHAMENTO À TURMA DE ORIGEM PARA ADEQUAÇÃO DO JULGADO",
+            "start": 394,
+            "end": 452,
+            "type": "GRANTED_TO_REVOKE"
+        }
+    ]
+}

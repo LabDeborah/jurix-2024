@@ -1,0 +1,47 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO NACIONAL. DIREITO PREVIDENCIÁRIO. BENEFÍCIO POR INCAPACIDADE. AUXÍLIO-DOENÇA CESSADO ADMINISTRATIVAMENTE. DECISÃO JUDICIAL QUE RECONHECE A EXISTÊNCIA DE INCAPACIDADE NA DATA DA CESSAÇÃO. PRETENSÃO DO INSS DE VER EXCLUÍDAS DA CONDENAÇÃO AS COMPETÊNCIAS EM QUE O SEGURADO RETORNOU AO TRABALHO APÓS A CESSAÇÃO DO BENEFÍCIO. TEMA 1013 DOS RECURSOS ESPECIAIS REPETITIVOS (RESP 1.786.590 E 1.788.700). O RETORNO DO SEGURADO AO TRABALHO APÓS A INDEVIDA CESSAÇÃO DO BENEFÍCIO DE AUXÍLIO-DOENÇA NÃO OBSTA O PAGAMENTO RETROATIVO DO BENEFÍCIO NO PERÍODO EM QUE O SEGURADO EXERCEU ATIVIDADE LABORATIVA. PEDIDO DE UNIFORMIZAÇÃO NACIONAL CONHECIDO E PROVIDO. REFORMA DO ACÓRDÃO DE ORIGEM, RESTABELECENDO-SE A SENTENÇA DE PROCEDÊNCIA. \t\t\t\t\t\t\t ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO NACIONAL",
+            "start": 0,
+            "end": 32,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "DIREITO PREVIDENCIÁRIO",
+            "start": 34,
+            "end": 56,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "BENEFÍCIO POR INCAPACIDADE",
+            "start": 58,
+            "end": 84,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "AUXÍLIO-DOENÇA CESSADO ADMINISTRATIVAMENTE",
+            "start": 86,
+            "end": 128,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "O RETORNO DO SEGURADO AO TRABALHO APÓS A INDEVIDA CESSAÇÃO DO BENEFÍCIO DE AUXÍLIO-DOENÇA NÃO OBSTA O PAGAMENTO RETROATIVO DO BENEFÍCIO NO PERÍODO EM QUE O SEGURADO EXERCEU ATIVIDADE LABORATIVA",
+            "start": 420,
+            "end": 613,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO NACIONAL CONHECIDO E PROVIDO",
+            "start": 615,
+            "end": 667,
+            "type": "GRANTED_TO_REVOKE"
+        },
+        {
+            "selected-text": "REFORMA DO ACÓRDÃO DE ORIGEM, RESTABELECENDO-SE A SENTENÇA DE PROCEDÊNCIA",
+            "start": 669,
+            "end": 742,
+            "type": "GRANTED_TO_REVOKE"
+        }
+    ]
+}

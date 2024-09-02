@@ -1,0 +1,41 @@
+{
+    "source": "EMENTA: DIREITO PREVIDENCIÁRIO. AUXÍLIO-DOENÇA E APOSENTADORIA POR INVALIDEZ. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL - PEDILEF. ALEGAÇÃO DE OFENSA AO TEMA TNU Nº 177. ACÓRDÃO RECORRIDO QUE DETERMINOU A CONCESSÃO DA APOSENTADORIA POR INVALIDEZ ANTE AO INSUCESSO DA REABILITAÇÃO, COM A MANUTENÇÃO DO AUXÍLIO-DOENÇA ATÉ A EFETIVA REABILITAÇÃO DA PARTE AUTORA. INCIDENTE DA AUTARQUIA FEDERAL PREVIDENCIÁRIA CONHECIDO E PROVIDO. DETERMINAÇÃO DE READEQUAÇÃO DO ACÓRDÃO AO TEMA TNU Nº 177. ",
+    "items": [
+        {
+            "selected-text": "DIREITO PREVIDENCIÁRIO",
+            "start": 8,
+            "end": 30,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "AUXÍLIO-DOENÇA E APOSENTADORIA POR INVALIDEZ",
+            "start": 32,
+            "end": 76,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL - PEDILEF",
+            "start": 78,
+            "end": 143,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "ALEGAÇÃO DE OFENSA AO TEMA TNU Nº 177. ACÓRDÃO RECORRIDO QUE DETERMINOU A CONCESSÃO DA APOSENTADORIA POR INVALIDEZ ANTE AO INSUCESSO DA REABILITAÇÃO, COM A MANUTENÇÃO DO AUXÍLIO-DOENÇA ATÉ A EFETIVA REABILITAÇÃO DA PARTE AUTORA",
+            "start": 145,
+            "end": 372,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INCIDENTE DA AUTARQUIA FEDERAL PREVIDENCIÁRIA CONHECIDO E PROVIDO",
+            "start": 374,
+            "end": 439,
+            "type": "GRANTED_TO_REVOKE"
+        },
+        {
+            "selected-text": "DETERMINAÇÃO DE READEQUAÇÃO DO ACÓRDÃO AO TEMA TNU Nº 177",
+            "start": 441,
+            "end": 498,
+            "type": "GRANTED_TO_REVOKE"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. BENEFÍCIO PREVIDENCIÁRIO POR INCAPACIDADE. DATA DE INÍCIO DO BENEFÍCIO - DIB. PERÍCIA MÉDICA JUDICIAL ATESTOU O INÍCIO DA INCAPACIDADE EM MOMENTO ANTERIOR AO PRIMEIRO REQUERIMENTO ADMINISTRATIVO. EVENTUAL EXISTÊNCIA DE REQUERIMENTOS SUCESSIVOS EM NADA OBSTA A APLICAÇÃO DO VERBETE DA SÚMULA 22/TNU PARA FIXAÇÃO DA DIB NA DATA DO REQUERIMENTO QUE PRECEDE A DII. ACÓRDÃO ANULADO COM RETORNO DOS AUTOS À TURMA DE ORIGEM, CONSENT NEO COM A QUESTÃO DE ORDEM 20/TNU. ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL",
+            "start": 0,
+            "end": 55,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "BENEFÍCIO PREVIDENCIÁRIO POR INCAPACIDADE",
+            "start": 57,
+            "end": 98,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "DATA DE INÍCIO DO BENEFÍCIO - DIB",
+            "start": 100,
+            "end": 133,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "PERÍCIA MÉDICA JUDICIAL ATESTOU O INÍCIO DA INCAPACIDADE EM MOMENTO ANTERIOR AO PRIMEIRO REQUERIMENTO ADMINISTRATIVO",
+            "start": 135,
+            "end": 251,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "EVENTUAL EXISTÊNCIA DE REQUERIMENTOS SUCESSIVOS EM NADA OBSTA A APLICAÇÃO DO VERBETE DA SÚMULA 22/TNU PARA FIXAÇÃO DA DIB NA DATA DO REQUERIMENTO QUE PRECEDE A DII",
+            "start": 253,
+            "end": 416,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "ACÓRDÃO ANULADO COM RETORNO DOS AUTOS À TURMA DE ORIGEM, CONSENT NEO COM A QUESTÃO DE ORDEM 20/TNU.",
+            "start": 418,
+            "end": 517,
+            "type": "GRANTED_TO_REVOKE"
+        }
+    ]
+}

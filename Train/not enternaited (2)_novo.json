@@ -1,0 +1,53 @@
+{
+    "source": "PREVIDENCIÁRIO. PEDIDO DE UNIFORMIZAÇÃO NACIONAL. MILITAR. LICENÇAS ESPECIAIS NÃO GOZADAS NEM COMPUTADAS EM DOBRO PARA INATIVIDADE. PRESCRIÇÃO. ACÓRDÃO EM CONSON NCIA COM O TEMA 302 DESTA TURMA NACIONAL DE UNIFORMIZAÇÃO. PEDIDO DE UNIFORMIZAÇÃO A QUE SE NEGA SEGUIMENTO. 1-A ocorrência de renúncia tácita ou não da prescrição tendo em vista a edição da Portaria Normativa 31/GMMD, de 24.5.2018, ato normativo que, nos termos do acórdão recorrido, não importou renúncia à prescrição, é questão enfrentada pelo Tema 302 desta TNU, na medida em que citada Portaria é lastreada no Parecer nº 00125/2018/CONJUR-MD/CGU/AGU, de 5 de março de 2018, o qual, de acordo com referido Tema 302, não é fundamento justificador de renúncia tácita à prescrição. 2- PEDIDO DE UNIFORMIZAÇÃO A QUE SE NEGA SEGUIMENTO. ",
+    "items": [
+        {
+            "selected-text": "PREVIDENCIÁRIO",
+            "start": 0,
+            "end": 14,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO NACIONAL",
+            "start": 16,
+            "end": 48,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "MILITAR",
+            "start": 50,
+            "end": 57,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "LICENÇAS ESPECIAIS NÃO GOZADAS NEM COMPUTADAS EM DOBRO PARA INATIVIDADE",
+            "start": 59,
+            "end": 130,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "PRESCRIÇÃO",
+            "start": 132,
+            "end": 142,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "ACÓRDÃO EM CONSON NCIA COM O TEMA 302 DESTA TURMA NACIONAL DE UNIFORMIZAÇÃO",
+            "start": 144,
+            "end": 219,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO A QUE SE NEGA SEGUIMENTO",
+            "start": 221,
+            "end": 269,
+            "type": "NOT_ENTERTAINED"
+        },
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO A QUE SE NEGA SEGUIMENTO",
+            "start": 748,
+            "end": 796,
+            "type": "NOT_ENTERTAINED"
+        }
+    ]
+}
