@@ -1,6 +1,7 @@
 First Step:
 Use requiriments.yml to install all necessary libraries. We used anaconda for managing packages.
 
+(In the spaCy diractory):
 Second Step:
 Run command: preprocess.py
 
