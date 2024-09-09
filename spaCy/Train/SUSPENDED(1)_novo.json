@@ -1,0 +1,53 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. DIREITO PROCESSUAL E ADMINISTRATIVO. RESIDÊNCIA MÉDICA. AUXÍLIO MORADIA. RESPONSABILIDADE DA INSTITUIÇÃO DE SAÚDE. MATÉRIA SUBMETIDA AO REGIME DOS REPRESENTATIVOS DE CONTROVÉRSIA. TEMA 325. SOBRESTAMENTO NA ORIGEM. ",
+    "items": [
+        {
+            "selected-text": "SOBRESTAMENTO NA ORIGEM",
+            "start": 239,
+            "end": 262,
+            "type": "SUSPENDED"
+        },
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI",
+            "start": 0,
+            "end": 47,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "DIREITO PROCESSUAL E ADMINISTRATIVO",
+            "start": 49,
+            "end": 84,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "RESIDÊNCIA MÉDICA",
+            "start": 86,
+            "end": 103,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "AUXÍLIO MORADIA",
+            "start": 105,
+            "end": 120,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "RESPONSABILIDADE DA INSTITUIÇÃO DE SAÚDE",
+            "start": 122,
+            "end": 162,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "MATÉRIA SUBMETIDA AO REGIME DOS REPRESENTATIVOS DE CONTROVÉRSIA",
+            "start": 164,
+            "end": 227,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "TEMA 325",
+            "start": 229,
+            "end": 237,
+            "type": "RATIO_DECIDENDI"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. ACÓRDÃO RECORRIDO QUE DENEGOU MANDADO DE SEGURANÇA IMPETRADO CONTRA DECISÃO INTERLOCUTÓRIA EM FASE DE CUMPRIMENTO DE SENTENÇA. QUESTÃO DE NATUREZA PROCESSUAL. SÚMULA 43/TNU. INCABÍVEL O INCIDENTE QUE IMPLIQUE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 42/TNU. O Pedido de Uniformização Nacional de Interpretação de Lei Federal pressupõe que seja demonstrada divergência na interpretação do direito material entre decisões de Turmas Recursais de diferentes Regiões ou quando houver contrariedade à súmula ou jurisprudência dominante do Col. Superior Tribunal de Justiça ou da Eg. Turma Nacional de Uniformização, conforme dispõe o art. 14, § 2º da Lei nº 10.259/01 e art. 12 do RITNU (Resolução CJF nº 586/2019).Descabe o incidente que verse sobre matéria processual (súmula 43/TNU), bem como quando implicar o amplo revolvimento do acervo fático-probatório (súmula 42/TNU).O acórdão combatido denegou mandado de segurança impetrado contra decisão interlocutória prolatada em fase de cumprimento de sentença, por não vislumbrar teratologia, seja por não haver ofensa aos limites da coisa julgada, seja pela ausência de exaurimento da fase executiva. Para dissentir de tais conclusões seria necessário adentrar em matéria de notória índole processual, além do inafastável reexame dos autos principais. Pedido de Uniformização não conhecido. ",
+    "items": [
+        {
+            "selected-text": "Pedido de Uniformização não conhecido",
+            "start": 1365,
+            "end": 1402,
+            "type": "NOT_HEARD"
+        },
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL",
+            "start": 0,
+            "end": 55,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "ACÓRDÃO RECORRIDO QUE DENEGOU MANDADO DE SEGURANÇA IMPETRADO CONTRA DECISÃO INTERLOCUTÓRIA EM FASE DE CUMPRIMENTO DE SENTENÇA",
+            "start": 57,
+            "end": 182,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "QUESTÃO DE NATUREZA PROCESSUAL",
+            "start": 184,
+            "end": 214,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "SÚMULA 43/TNU",
+            "start": 216,
+            "end": 229,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "INCABÍVEL O INCIDENTE QUE IMPLIQUE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO",
+            "start": 231,
+            "end": 308,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "SÚMULA 42/TNU",
+            "start": 310,
+            "end": 323,
+            "type": "RATIO_DECIDENDI"
+        }
+    ]
+}

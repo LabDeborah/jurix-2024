@@ -1,0 +1,53 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. DIREITO ADMINISTRATIVO. SUS. FORNECIMENTO DE EXAME MÉDICO. TEMA 106, DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 42, DA TNU. INCIDENTE NÃO CONHECIDO.",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI",
+            "start": 0,
+            "end": 47,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "DIREITO ADMINISTRATIVO",
+            "start": 49,
+            "end": 71,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "SUS",
+            "start": 73,
+            "end": 76,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "FORNECIMENTO DE EXAME MÉDICO",
+            "start": 78,
+            "end": 106,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "DIVERGÊNCIA JURISPRUDENCIAL",
+            "start": 126,
+            "end": 153,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "AUSÊNCIA",
+            "start": 155,
+            "end": 163,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "REEXAME DE FATOS E PROVAS",
+            "start": 165,
+            "end": 190,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INCIDENTE NÃO CONHECIDO",
+            "start": 228,
+            "end": 251,
+            "type": "NOT_HEARD"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI.  BENEFÍCIO ASSISTENCIAL. AUSÊNCIA DE PERÍCIA. CONJUNTO PROBATÓRIO. REEXAME DE PROVAS. SÚMULA 42, DA TNU. NÃO CONHECIMENTO. A turma recusal considerou a carga probatória suficiente para formar a convicção acerca do direito ao benefício assistencial de prestação continuada - BPC, excepcionando a regra de produção de perícia de forma arrazoada. Não se pode chegar a outra conclusão senão pela reavaliação do conjunto probatório, medida incabível  nos estreitos limites do pedido de uniformização, restrito ao julgamento de divergência de interpretação sobre questões de direito material. ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI",
+            "start": 0,
+            "end": 47,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "BENEFÍCIO ASSISTENCIAL",
+            "start": 50,
+            "end": 72,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "AUSÊNCIA DE PERÍCIA",
+            "start": 74,
+            "end": 93,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "CONJUNTO PROBATÓRIO",
+            "start": 95,
+            "end": 114,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "REEXAME DE PROVAS",
+            "start": 116,
+            "end": 133,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "SÚMULA 42, DA TNU",
+            "start": 135,
+            "end": 152,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "NÃO CONHECIMENTO",
+            "start": 154,
+            "end": 170,
+            "type": "NOT_HEARD"
+        }
+    ]
+}

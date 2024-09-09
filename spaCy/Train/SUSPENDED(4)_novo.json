@@ -1,0 +1,71 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO DE LEI FEDERAL. PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. RESIDÊNCIA MÉDICA. LEI 6.932/1981. DIREITO À MORADIA. INDENIZAÇÃO POR AUSÊNCIA DESTA. RECURSO REPETITIVO. TEMA 325 TNU (\"SABER SE O DESCUMPRIMENTO DO ART. 4º, § 5º DA LEI 6.932/1981, QUE IMPÕE ÀS INSTITUIÇÕES DE SAÚDE RESPONSÁVEIS POR PROGRAMAS DE RESIDÊNCIA MÉDICA O DEVER DE OFERECER AOS RESIDENTES ALIMENTAÇÃO E MORADIA NO DECORRER DO PERÍODO DE RESIDÊNCIA, ENSEJA MEDIDAS QUE ASSEGUREM O RESULTADO PRÁTICO EQUIVALENTE OU A CONVERSÃO EM PERDAS E DANOS\"). PERTINÊNCIA TEMÁTICA. DEVOLUÇÃO À ORIGEM PARA SOBRESTAMENTO. ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE LEI FEDERAL",
+            "start": 0,
+            "end": 38,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "PROCESSUAL CIVIL",
+            "start": 40,
+            "end": 56,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "DIREITO ADMINISTRATIVO",
+            "start": 58,
+            "end": 80,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "RESIDÊNCIA MÉDICA",
+            "start": 82,
+            "end": 99,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "LEI 6.932/1981",
+            "start": 101,
+            "end": 115,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "DIREITO À MORADIA",
+            "start": 117,
+            "end": 134,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "INDENIZAÇÃO POR AUSÊNCIA DESTA",
+            "start": 136,
+            "end": 166,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "RECURSO REPETITIVO",
+            "start": 168,
+            "end": 186,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "TEMA 325 TNU (\"SABER SE O DESCUMPRIMENTO DO ART. 4º, § 5º DA LEI 6.932/1981, QUE IMPÕE ÀS INSTITUIÇÕES DE SAÚDE RESPONSÁVEIS POR PROGRAMAS DE RESIDÊNCIA MÉDICA O DEVER DE OFERECER AOS RESIDENTES ALIMENTAÇÃO E MORADIA NO DECORRER DO PERÍODO DE RESIDÊNCIA, ENSEJA MEDIDAS QUE ASSEGUREM O RESULTADO PRÁTICO EQUIVALENTE OU A CONVERSÃO EM PERDAS E DANOS\")",
+            "start": 188,
+            "end": 538,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "PERTINÊNCIA TEMÁTICA",
+            "start": 540,
+            "end": 560,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "DEVOLUÇÃO À ORIGEM PARA SOBRESTAMENTO",
+            "start": 562,
+            "end": 599,
+            "type": "SUSPENDED"
+        }
+    ]
+}

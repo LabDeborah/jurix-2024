@@ -1,0 +1,65 @@
+{
+    "source": "EMENTA: DIREITO PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE. ALEGAÇÃO DE OFENSA AO DECIDIDO PELO SUPERIOR TRIBUNAL DE JUSTIÇA NO TEMA STJ Nº 416. ALEGAÇÃO DA NECESSIDADE DE NOVO LAUDO PERICIAL MÉDICO ANTE A NULIDADE DO REALIZADO NOS AUTOS. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL - PEDILEF. REEXAME DE MATÉRIA DE FATO. INCIDÊNCIA DA SÚMULA TNU Nº 42. NULIDADE DE ATO AUXILIAR DO JUÍZO PARA REALIZAÇÃO DE NOVA PROVA PERICIAL. INCIDÊNCIA DA SÚMULA TNU Nº 43. INCIDENTE DA PARTE AUTORA NÃO CONHECIDO.  ",
+    "items": [
+        {
+            "selected-text": "DIREITO PREVIDENCIÁRIO",
+            "start": 8,
+            "end": 30,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "AUXÍLIO-ACIDENTE",
+            "start": 32,
+            "end": 48,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "ALEGAÇÃO DE OFENSA AO DECIDIDO PELO SUPERIOR TRIBUNAL DE JUSTIÇA NO TEMA STJ Nº 416",
+            "start": 50,
+            "end": 133,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "ALEGAÇÃO DA NECESSIDADE DE NOVO LAUDO PERICIAL MÉDICO ANTE A NULIDADE DO REALIZADO NOS AUTOS",
+            "start": 135,
+            "end": 227,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL - PEDILEF",
+            "start": 229,
+            "end": 294,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "REEXAME DE MATÉRIA DE FATO",
+            "start": 296,
+            "end": 322,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INCIDÊNCIA DA SÚMULA TNU Nº 42",
+            "start": 324,
+            "end": 354,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "NULIDADE DE ATO AUXILIAR DO JUÍZO PARA REALIZAÇÃO DE NOVA PROVA PERICIAL",
+            "start": 356,
+            "end": 428,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INCIDÊNCIA DA SÚMULA TNU Nº 43",
+            "start": 430,
+            "end": 460,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INCIDENTE DA PARTE AUTORA NÃO CONHECIDO",
+            "start": 462,
+            "end": 501,
+            "type": "NOT_HEARD"
+        }
+    ]
+}

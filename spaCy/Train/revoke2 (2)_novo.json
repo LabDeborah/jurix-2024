@@ -1,0 +1,41 @@
+{
+    "source": "PREVIDENCIÁRIO. PEDIDO DE UNIFORMIZAÇÃO NACIONAL.  TERMO INICIAL DO BENEFÍCIO DE AUXÍLIO-ACIDENTE. VIOLAÇÃO À TESE FIRMADA NO TEMA 862 PELO STJ. RETORNO DOS AUTOS PARA ADEQUAÇÃO. 1- A lesão justificadora do benefício por incapacidade temporária é a mesma que, após consolidada, resultou em sequela definitiva redutora da capacidade laborativa do segurado, justificando, assim, a concessão do auxílio-acidente desde a data da cessação do benefício de auxílio-doença anteriormente gozado, observada a prescrição quinquental, nos termos da tese firmada no Tema 862 do Superior Tribunal de Justiça. 2- Assim como a perícia judicial não constitui termo de aquisição de direitos, conforme reiterado pelo Superior Tribunal de Justiça quando da fixação da tese em questão, data de exame/relatórios médicos também não. Eles apenas atestam uma situação já existente. No caso, a data de início do benefício de auxílio-acidente foi fixada na perícia em 09/03/2020, data de realização de exame de raio-x, apontada  pelo perito judicial  como data provável de início de incapacidade, o que,  pelas razões postas, não é possível.  3- Retorno dos autos à Turma de origem para adequação do julgado.",
+    "items": [
+        {
+            "selected-text": "PREVIDENCIÁRIO",
+            "start": 0,
+            "end": 14,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO NACIONAL",
+            "start": 16,
+            "end": 48,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "TERMO INICIAL DO BENEFÍCIO DE AUXÍLIO-ACIDENTE",
+            "start": 51,
+            "end": 97,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "VIOLAÇÃO À TESE FIRMADA NO TEMA 862 PELO STJ",
+            "start": 99,
+            "end": 143,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "RETORNO DOS AUTOS PARA ADEQUAÇÃO",
+            "start": 145,
+            "end": 177,
+            "type": "GRANTED_TO_REVOKE"
+        },
+        {
+            "selected-text": "Retorno dos autos à Turma de origem para adequação do julgado",
+            "start": 1119,
+            "end": 1180,
+            "type": "GRANTED_TO_REVOKE"
+        }
+    ]
+}

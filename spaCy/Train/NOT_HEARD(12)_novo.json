@@ -1,0 +1,47 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO NACIONAL DE INTERPRETAÇÃO DE LEI FEDERAL. PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. DATA DE INÍCIO DO BENEFÍCIO FIXADA NO ACÓRDÃO NA DATA DE AJUIZAMENTO DA AÇÃO. PEDIDO DE ALTERAÇÃO DA DIB PARA A DATA DO REQUERIMENTO ADMINISTRATIVO QUE EXIGE REEXAME DE FATOS E PROVAS, NOTADAMENTE A DATA DE INÍCIO DA INCAPACIDADE. SÚMULA 42 DA TNU. RECURSO DA PARTE AUTORA NÃO CONHECIDO.  ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO NACIONAL DE INTERPRETAÇÃO DE LEI FEDERAL",
+            "start": 0,
+            "end": 64,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "PREVIDENCIÁRIO",
+            "start": 66,
+            "end": 80,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "AUXÍLIO-DOENÇA",
+            "start": 82,
+            "end": 96,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "DATA DE INÍCIO DO BENEFÍCIO FIXADA NO ACÓRDÃO NA DATA DE AJUIZAMENTO DA AÇÃO",
+            "start": 98,
+            "end": 174,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "PEDIDO DE ALTERAÇÃO DA DIB PARA A DATA DO REQUERIMENTO ADMINISTRATIVO QUE EXIGE REEXAME DE FATOS E PROVAS, NOTADAMENTE A DATA DE INÍCIO DA INCAPACIDADE",
+            "start": 176,
+            "end": 327,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "SÚMULA 42 DA TNU",
+            "start": 329,
+            "end": 345,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "RECURSO DA PARTE AUTORA NÃO CONHECIDO",
+            "start": 347,
+            "end": 384,
+            "type": "NOT_HEARD"
+        }
+    ]
+}

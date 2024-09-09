@@ -1,0 +1,53 @@
+{
+    "source": "EMENTA: DIREITO PREVIDENCIÁRIO. AUXÍLIO-DOENÇA (INCAPACIDADE TEMPORÁRIA). APOSENTADORIA POR INVALIDEZ. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. ALEGAÇÃO DE DECISÃO CONTRÁRIA AS PROVAS DOS AUTOS, EM ESPECIAL OS DOCUMENTOS MÉDICOS PARTICULARES. ANÁLISE DE QUESTÃO PROBATÓRIA. INCIDÊNCIA DA SÚMULA TNU Nº 42. INCIDENTE DE UNIFORMIZAÇÃO DA PARTE AUTORA NÃO CONHECIDO ",
+    "items": [
+        {
+            "selected-text": "DIREITO PREVIDENCIÁRIO",
+            "start": 8,
+            "end": 30,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "AUXÍLIO-DOENÇA (INCAPACIDADE TEMPORÁRIA)",
+            "start": 32,
+            "end": 72,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "APOSENTADORIA POR INVALIDEZ",
+            "start": 74,
+            "end": 101,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL",
+            "start": 103,
+            "end": 158,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "ALEGAÇÃO DE DECISÃO CONTRÁRIA AS PROVAS DOS AUTOS, EM ESPECIAL OS DOCUMENTOS MÉDICOS PARTICULARES",
+            "start": 160,
+            "end": 257,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "ANÁLISE DE QUESTÃO PROBATÓRIA",
+            "start": 259,
+            "end": 288,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INCIDÊNCIA DA SÚMULA TNU Nº 42",
+            "start": 290,
+            "end": 320,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INCIDENTE DE UNIFORMIZAÇÃO DA PARTE AUTORA NÃO CONHECIDO",
+            "start": 322,
+            "end": 378,
+            "type": "NOT_HEARD"
+        }
+    ]
+}

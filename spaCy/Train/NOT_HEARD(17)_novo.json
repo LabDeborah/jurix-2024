@@ -1,0 +1,47 @@
+{
+    "source": "EMENTA: RESPONSABILIDADE CIVIL. CONDENAÇÃO NA INDENIZAÇÃO POR DANOS MATERIAIS. FURTO DE MOTOCICLETA. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL - PEDILEF/PUIL. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA TNU Nº 42. INCIDENTE DE UNIFORMIZAÇÃO DA VALEC NÃO CONHECIDO. \t\t\t\t\t\t\t  ",
+    "items": [
+        {
+            "selected-text": "RESPONSABILIDADE CIVIL",
+            "start": 8,
+            "end": 30,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "CONDENAÇÃO NA INDENIZAÇÃO POR DANOS MATERIAIS",
+            "start": 32,
+            "end": 77,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "FURTO DE MOTOCICLETA",
+            "start": 79,
+            "end": 99,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL - PEDILEF/PUIL",
+            "start": 101,
+            "end": 171,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "NECESSIDADE DE REEXAME DE PROVAS",
+            "start": 173,
+            "end": 205,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INCIDÊNCIA DA SÚMULA TNU Nº 42",
+            "start": 207,
+            "end": 237,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INCIDENTE DE UNIFORMIZAÇÃO DA VALEC NÃO CONHECIDO",
+            "start": 239,
+            "end": 288,
+            "type": "NOT_HEARD"
+        }
+    ]
+}
