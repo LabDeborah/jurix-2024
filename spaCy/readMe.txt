@@ -1,10 +1,7 @@
 First Step:
-Copy and paste the dataset in this folder as it is.
-
-Second Step:
 anaconda - python preprocess.py
 
-Third Step:
+Second Step:
 anaconda - python -m spacy train config.cfg --output ./output --paths.train ./train.spacy --paths.dev ./dev.spacy
 
 if error:
