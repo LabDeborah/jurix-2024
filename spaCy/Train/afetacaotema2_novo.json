@@ -1,0 +1,65 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. PREVIDENCIÁRIO. SEGURADO ESPECIAL. APOSENTADORIA POR IDADE RURAL. REVISÃO DA RMI. INCLUSÃO DOS VALORES DE AUXÍLIO-ACIDENTE NO PBC DO BENEFÍCIO DE APOSENTADORIA. LEGALIDADE DO ART. 36, § 6º, DO DECRETO 3.048/99. SIMILITUDE FÁTICA E DIVERGÊNCIA JURÍDICA ENTRE O ACÓRDÃO RECORRIDO E PRECEDENTE DESTA TNU. MULTIPLICIDADE DE DEMANDAS AGUARDANDO SOLUÇÃO. PROPOSTA DE AFETAÇÃO COMO REPRESENTATIVO DE CONTROVÉRSIA. QUESTÃO CONTROVERTIDA: \"SABER SE DEVEM SER COMPUTADOS OS VALORES PERCEBIDOS A TÍTULO DE AUXÍLIO-ACIDENTE NO PERÍODO BÁSICO DE CÁLCULO (PBC) DA APOSENTADORIA POR IDADE RURAL, PARA FINS DE INCREMENTO DA RENDA MENSAL INICIAL (RMI), INDEPENDENTEMENTE DO RECOLHIMENTO DE CONTRIBUIÇÕES FACULTATIVAS\". ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI",
+            "start": 0,
+            "end": 47,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "PREVIDENCIÁRIO",
+            "start": 49,
+            "end": 63,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "SEGURADO ESPECIAL",
+            "start": 65,
+            "end": 82,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "APOSENTADORIA POR IDADE RURAL",
+            "start": 84,
+            "end": 113,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "REVISÃO DA RMI",
+            "start": 115,
+            "end": 129,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "INCLUSÃO DOS VALORES DE AUXÍLIO-ACIDENTE NO PBC DO BENEFÍCIO DE APOSENTADORIA",
+            "start": 131,
+            "end": 208,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "LEGALIDADE DO ART. 36, § 6º, DO DECRETO 3.048/99",
+            "start": 210,
+            "end": 258,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "SIMILITUDE FÁTICA E DIVERGÊNCIA JURÍDICA ENTRE O ACÓRDÃO RECORRIDO E PRECEDENTE DESTA TNU. MULTIPLICIDADE DE DEMANDAS AGUARDANDO SOLUÇÃO",
+            "start": 260,
+            "end": 396,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "PROPOSTA DE AFETAÇÃO COMO REPRESENTATIVO DE CONTROVÉRSIA",
+            "start": 398,
+            "end": 454,
+            "type": "GRANTED_AND_INDICATED"
+        },
+        {
+            "selected-text": "UESTÃO CONTROVERTIDA: \"SABER SE DEVEM SER COMPUTADOS OS VALORES PERCEBIDOS A TÍTULO DE AUXÍLIO-ACIDENTE NO PERÍODO BÁSICO DE CÁLCULO (PBC) DA APOSENTADORIA POR IDADE RURAL, PARA FINS DE INCREMENTO DA RENDA MENSAL INICIAL (RMI), INDEPENDENTEMENTE DO RECOLHIMENTO DE CONTRIBUIÇÕES FACULTATIVAS\"",
+            "start": 457,
+            "end": 749,
+            "type": "GRANTED_AND_INDICATED"
+        }
+    ]
+}

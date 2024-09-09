@@ -1,0 +1,53 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO DE LEI FEDERAL. PROCESSUAL CIVIL. PREVIDENCIÁRIO. PENSÃO DE EX-COMBATENTE. MANUTENÇÃO DO VALOR EQUIVALENTE AO DA APOSENTADORIA. TURMA DE ORIGEM QUE ASSENTOU REGÊNCIA JÁ PELA LEI N. 5.698/71, CONSIDERADA A DATA DO ÓBITO DO INSTITUIDOR (2018). PARADIGMA QUE VERSOU SOBRE ÓBITO HAVIDO SOB A ÉGIDE DA LEGISLAÇÃO ANTERIOR (LEIS N. 1.756/52 OU 4.297/63). AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA. QUESTÃO DE ORDEM N. 22 DESTA TNU. INCIDENTE NÃO ADMITIDO.   ",
+    "items": [
+        {
+            "selected-text": "PROCESSUAL CIVIL",
+            "start": 40,
+            "end": 56,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "PREVIDENCIÁRIO",
+            "start": 58,
+            "end": 72,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "PENSÃO DE EX-COMBATENTE",
+            "start": 74,
+            "end": 97,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "MANUTENÇÃO DO VALOR EQUIVALENTE AO DA APOSENTADORIA",
+            "start": 99,
+            "end": 150,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "TURMA DE ORIGEM QUE ASSENTOU REGÊNCIA JÁ PELA LEI N. 5.698/71, CONSIDERADA A DATA DO ÓBITO DO INSTITUIDOR (2018)",
+            "start": 152,
+            "end": 264,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "PARADIGMA QUE VERSOU SOBRE ÓBITO HAVIDO SOB A ÉGIDE DA LEGISLAÇÃO ANTERIOR (LEIS N. 1.756/52 OU 4.297/63)",
+            "start": 266,
+            "end": 371,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "QUESTÃO DE ORDEM N. 22 DESTA TNU",
+            "start": 413,
+            "end": 445,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INCIDENTE NÃO ADMITIDO",
+            "start": 447,
+            "end": 469,
+            "type": "NOT_GRANTED"
+        }
+    ]
+}

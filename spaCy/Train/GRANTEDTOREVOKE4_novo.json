@@ -1,0 +1,41 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. BENEFÍCIO POR INCAPACIDADE INTERCALADO COM O RECOLHIMENTO DE CONTRIBUIÇÕES. REAFIRMAÇÃO DA JURISPRUDÊNCIA PACÍFICA DA TNU. AINDA QUE VERTIDA APENAS UMA ÚNICA CONTRIBUIÇÃO DEVE SER RECONHECIDO AO SEGURADO O DIREITO AO CÔMPUTO DO PERÍODO DE RECEBIMENTO DO BENEFÍCIO POR INCAPACIDADE - AUXÍLIO-DOENÇA OU APOSENTADORIA POR INVALIDEZ - PARA FINS DE CARÊNCIA E TEMPO DE CONTRIBUIÇÃO. ACÓRDÃO ANULADO. QUESTÃO DE ORDEM 20/TNU. ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL",
+            "start": 0,
+            "end": 55,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "BENEFÍCIO POR INCAPACIDADE INTERCALADO COM O RECOLHIMENTO DE CONTRIBUIÇÕES",
+            "start": 57,
+            "end": 131,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "REAFIRMAÇÃO DA JURISPRUDÊNCIA PACÍFICA DA TNU",
+            "start": 133,
+            "end": 178,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "AINDA QUE VERTIDA APENAS UMA ÚNICA CONTRIBUIÇÃO DEVE SER RECONHECIDO AO SEGURADO O DIREITO AO CÔMPUTO DO PERÍODO DE RECEBIMENTO DO BENEFÍCIO POR INCAPACIDADE - AUXÍLIO-DOENÇA OU APOSENTADORIA POR INVALIDEZ - PARA FINS DE CARÊNCIA E TEMPO DE CONTRIBUIÇÃO",
+            "start": 180,
+            "end": 433,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "ACÓRDÃO ANULADO",
+            "start": 435,
+            "end": 450,
+            "type": "GRANTED_TO_REVOKE"
+        },
+        {
+            "selected-text": "QUESTÃO DE ORDEM 20/TNU",
+            "start": 452,
+            "end": 475,
+            "type": "RATIO_DECIDENDI"
+        }
+    ]
+}

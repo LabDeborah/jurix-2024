@@ -1,0 +1,53 @@
+{
+    "source": "DIREITO ADMINISTRATIVO. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI.  SERVIDOR PÚBLICO. ADICIONAL DE INSALUBRIDADE. ALÍQUOTA. TERMO INICIAL. DATA DO LAUDO PERICIAL. STJ. PRECEDENTE. NECESSIDADE DE ADEQUAÇÃO. INCIDENTE CONHECIDO E PROVIDO.    ",
+    "items": [
+        {
+            "selected-text": "DIREITO ADMINISTRATIVO",
+            "start": 0,
+            "end": 22,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI",
+            "start": 24,
+            "end": 71,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "SERVIDOR PÚBLICO",
+            "start": 74,
+            "end": 90,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "ADICIONAL DE INSALUBRIDADE",
+            "start": 92,
+            "end": 118,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "ALÍQUOTA",
+            "start": 120,
+            "end": 128,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "TERMO INICIAL",
+            "start": 130,
+            "end": 143,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "PRECEDENTE",
+            "start": 174,
+            "end": 184,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "NECESSIDADE DE ADEQUAÇÃO",
+            "start": 212,
+            "end": 241,
+            "type": "GRANTED_TO_REVOKE"
+        }
+    ]
+}

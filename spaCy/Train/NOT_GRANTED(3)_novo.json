@@ -1,0 +1,65 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO DE LEI FEDERAL. ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. VANTAGEM PESSOAL NOMINALMENTE IDENTIFICADA - VPNI. TURMA RECURSAL DE ORIGEM QUE DETERMINOU O PAGAMENTO DA VPNI ENQUANTO PERDURAR AS CONDIÇÕES DE TRABALHO QUE DERAM ORIGEM À VANTAGEM. PARADIGMAS QUE ENVOLVEM SITUAÇÃO FÁTICA  SOBRE DESNECESSIDADE DE PROCESSO ADMINISTRATIVO PARA A ABSORÇÃO DA VPNI E SOBRE ATUALIZAÇÃO DA RUBRICA. AUSÊNCIA DE DIVERGÊNCIA POR FALTA DE SIMILITUDE FÁTICA. QUESTÃO DE ORDEM N. 22. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA N. 42 DA TNU. INCIDENTE NÃO ADMITIDO. ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE LEI FEDERAL",
+            "start": 0,
+            "end": 38,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "ADMINISTRATIVO",
+            "start": 40,
+            "end": 54,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "SERVIDOR PÚBLICO FEDERAL",
+            "start": 56,
+            "end": 80,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "VANTAGEM PESSOAL NOMINALMENTE IDENTIFICADA - VPNI",
+            "start": 82,
+            "end": 131,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "TURMA RECURSAL DE ORIGEM QUE DETERMINOU O PAGAMENTO DA VPNI ENQUANTO PERDURAR AS CONDIÇÕES DE TRABALHO QUE DERAM ORIGEM À VANTAGEM",
+            "start": 133,
+            "end": 263,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "PARADIGMAS QUE ENVOLVEM SITUAÇÃO FÁTICA  SOBRE DESNECESSIDADE DE PROCESSO ADMINISTRATIVO PARA A ABSORÇÃO DA VPNI E SOBRE ATUALIZAÇÃO DA RUBRICA",
+            "start": 265,
+            "end": 408,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "QUESTÃO DE ORDEM N. 22",
+            "start": 466,
+            "end": 488,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "REEXAME DE MATÉRIA FÁTICA",
+            "start": 490,
+            "end": 515,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "SÚMULA N. 42 DA TNU",
+            "start": 534,
+            "end": 553,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INCIDENTE NÃO ADMITIDO",
+            "start": 555,
+            "end": 577,
+            "type": "NOT_GRANTED"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO NACIONAL. REAFIRMAÇÃO DA DER PARA A DATA DA CONCESSÃO, A FIM DE SE OBTER O MELHOR BENEFÍCIO. PRECEDENTES DA TURMA NACIONAL DE UNIFORMIZAÇÃO QUE ADMITEM A REAFIRMAÇÃO DA DER, PARA O FIM DE OBTENÇÃO DE BENEFÍCIO MAIS VANTAJOSO. PEDIDO DE UNIFORMIZAÇÃO NACIONAL CONHECIDO E PROVIDO. REMESSA À ORIGEM PARA ADEQUAÇÃO DO JULGADO.",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO NACIONAL",
+            "start": 0,
+            "end": 32,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "REAFIRMAÇÃO DA DER PARA A DATA DA CONCESSÃO, A FIM DE SE OBTER O MELHOR BENEFÍCIO",
+            "start": 34,
+            "end": 115,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "PRECEDENTES DA TURMA NACIONAL DE UNIFORMIZAÇÃO QUE ADMITEM A REAFIRMAÇÃO DA DER, PARA O FIM DE OBTENÇÃO DE BENEFÍCIO MAIS VANTAJOSO",
+            "start": 117,
+            "end": 248,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO NACIONAL CONHECIDO E PROVIDO",
+            "start": 250,
+            "end": 302,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "REMESSA À ORIGEM PARA ADEQUAÇÃO DO JULGADO",
+            "start": 304,
+            "end": 346,
+            "type": "GRANTED_TO_REVOKE"
+        }
+    ]
+}

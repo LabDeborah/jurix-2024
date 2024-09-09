@@ -1,0 +1,53 @@
+{
+    "source": "PREVIDENCIÁRIO. PEDIDO DE UNIFORMIZAÇÃO NACIONAL. PRETENSÃO DE RECEBIMENTO DE COMPLEMENTAÇÃO DE AUXÍLIO-EMERGENCIAL 2020 EM COTA DUPLA EM RAZÃO DE NASCIMENTO DE FILHO APÓS A DATA LIMITE PARA REQUERIMENTO, 02/07/2020. PARADIGMA QUE VERSA SOBRE A SUSPENSÃO DO AUXÍLIO-EMERGENCIAL EM RAZÃO DA SUPERVENIÊNCIA DE EMPREGO FORMAL. TESE, INCLUSIVE, SUPERADA POR ESTA TNU NO JULGAMENTO DO PEDIDO DE UNIFORMIZAÇÃO Nº 5087157-79.2021.4.04.7100/RS. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE A QUESTÃO DE DIREITO POSTA E O PARADIGMA COLACIONADO. INCIDÊNCIA DA QUESTÃO DE ORDEM 22 DA TNU. INADMISSÃO DO PEDIDO DE UNIFORMIZAÇÃO. ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO NACIONAL",
+            "start": 16,
+            "end": 48,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "PREVIDENCIÁRIO",
+            "start": 0,
+            "end": 14,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "INADMISSÃO DO PEDIDO DE UNIFORMIZAÇÃO",
+            "start": 569,
+            "end": 606,
+            "type": "NOT_GRANTED"
+        },
+        {
+            "selected-text": "INCIDÊNCIA DA QUESTÃO DE ORDEM 22 DA TNU",
+            "start": 527,
+            "end": 567,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE A QUESTÃO DE DIREITO POSTA E O PARADIGMA COLACIONADO",
+            "start": 437,
+            "end": 525,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "TESE, INCLUSIVE, SUPERADA POR ESTA TNU NO JULGAMENTO DO PEDIDO DE UNIFORMIZAÇÃO Nº 5087157-79.2021.4.04.7100/RS",
+            "start": 324,
+            "end": 435,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "PARADIGMA QUE VERSA SOBRE A SUSPENSÃO DO AUXÍLIO-EMERGENCIAL EM RAZÃO DA SUPERVENIÊNCIA DE EMPREGO FORMAL",
+            "start": 217,
+            "end": 322,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "PRETENSÃO DE RECEBIMENTO DE COMPLEMENTAÇÃO DE AUXÍLIO-EMERGENCIAL 2020 EM COTA DUPLA EM RAZÃO DE NASCIMENTO DE FILHO APÓS A DATA LIMITE PARA REQUERIMENTO, 02/07/2020",
+            "start": 50,
+            "end": 215,
+            "type": "SUBJECT"
+        }
+    ]
+}

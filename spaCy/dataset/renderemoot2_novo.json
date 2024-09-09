@@ -1,0 +1,41 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO NACIONAL. DIREITO PREVIDENCIÁRIO. CONCESSÃO DE AUXÍLIO-ACIDENTE. HIPÓTESE EM QUE A AUSÊNCIA DE MANIFESTAÇÃO DA TURMA DE ORIGEM ACERCA DA QUESTÃO DE DIREITO SUSCITADA PELO AUTOR IMPEDIU A FORMAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. ACÓRDÃO ANULADO, COM RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO. PEDIDO DE UNIFORMIZAÇÃO NACIONAL PREJUDICADO ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO NACIONAL PREJUDICADO",
+            "start": 322,
+            "end": 366,
+            "type": "RENDERED_MOOT"
+        },
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO NACIONAL",
+            "start": 0,
+            "end": 32,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "DIREITO PREVIDENCIÁRIO",
+            "start": 34,
+            "end": 56,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "CONCESSÃO DE AUXÍLIO-ACIDENTE",
+            "start": 58,
+            "end": 87,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "HIPÓTESE EM QUE A AUSÊNCIA DE MANIFESTAÇÃO DA TURMA DE ORIGEM ACERCA DA QUESTÃO DE DIREITO SUSCITADA PELO AUTOR IMPEDIU A FORMAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL",
+            "start": 89,
+            "end": 250,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "ACÓRDÃO ANULADO, COM RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO",
+            "start": 252,
+            "end": 320,
+            "type": "RATIO_DECIDENDI"
+        }
+    ]
+}

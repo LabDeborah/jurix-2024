@@ -1,0 +1,41 @@
+{
+    "source": "ADMINISTRATIVO. PEDIDO DE UNIFORMIZAÇÃO NACIONAL.  VÍCIOS CONSTRUTIVOS EM IMÓVEL INSERIDO NO PROGRAMA MINHA CASA MINHA VIDA. AUSENCIA DE NECESSIDADE DE DESOCUPAÇÃO DO IMÓVEL PARA REPARAÇÃO. IMPOSSIBILIDADE DE RECONHECIMENTO DE DANOS MORAIS IN RE IPSA. EXIGÊNCIA DE COMPROVAÇÃO DOS DANOS MORAIS. PRECEDENTES DO STJ E DESTA TNU. RETORNO DOS AUTOS PARA ADEQUAÇÃO. Os danos morais decorrentes de vícios de construção que sequer demandaram a necessidade de desocupação do imóvel para reparação não se presumem, sendo necessária a devida comprovação de sua ocorrência mediante a demonstração de grave violação aos valores fundamentais inerentes aos direitos da personalidade.Pedido de Uniformização Provido. Retorno dos autos para Adequação do julgado. ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO NACIONAL",
+            "start": 16,
+            "end": 48,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "VÍCIOS CONSTRUTIVOS EM IMÓVEL INSERIDO NO PROGRAMA MINHA CASA MINHA VIDA",
+            "start": 51,
+            "end": 123,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "AUSENCIA DE NECESSIDADE DE DESOCUPAÇÃO DO IMÓVEL PARA REPARAÇÃO",
+            "start": 125,
+            "end": 188,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "IMPOSSIBILIDADE DE RECONHECIMENTO DE DANOS MORAIS IN RE IPSA",
+            "start": 190,
+            "end": 250,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "EXIGÊNCIA DE COMPROVAÇÃO DOS DANOS MORAIS",
+            "start": 252,
+            "end": 293,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "RETORNO DOS AUTOS PARA ADEQUAÇÃO",
+            "start": 327,
+            "end": 359,
+            "type": "GRANTED_TO_REVOKE"
+        }
+    ]
+}

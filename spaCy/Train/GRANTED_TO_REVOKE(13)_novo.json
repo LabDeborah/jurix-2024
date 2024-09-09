@@ -1,0 +1,47 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO. NOVO §5º, DO ART. 43, DA LEI 8.213/91. DATA DE CESSAÇÃO DO BENEFÍCIO. DISPENSA DE AVALIAÇÃO. MENSALIDADES DE RECUPERAÇÃO. TEMA 266 DA TNU. ACÓRDÃO DIVERGENTE. QUESTÃO DE ORDEM Nº 20 DA TNU. PROVIMENTO AO PEDIDO DE UNIFORMIZAÇÃO PARA ADEQUAÇÃO.  ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO",
+            "start": 0,
+            "end": 23,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "NOVO §5º, DO ART. 43, DA LEI 8.213/91",
+            "start": 25,
+            "end": 62,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "DATA DE CESSAÇÃO DO BENEFÍCIO",
+            "start": 64,
+            "end": 93,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "TEMA 266 DA TNU",
+            "start": 147,
+            "end": 162,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "ACÓRDÃO DIVERGENTE",
+            "start": 164,
+            "end": 182,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "QUESTÃO DE ORDEM Nº 20 DA TNU",
+            "start": 184,
+            "end": 213,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "PROVIMENTO AO PEDIDO DE UNIFORMIZAÇÃO PARA ADEQUAÇÃO",
+            "start": 215,
+            "end": 267,
+            "type": "GRANTED_TO_REVOKE"
+        }
+    ]
+}

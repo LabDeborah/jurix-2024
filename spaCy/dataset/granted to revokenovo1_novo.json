@@ -1,0 +1,83 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. DIREITO PREVIDENCIÁRIO. APOSENTADORIA POR IDADE. SEGURADO OBRIGATÓRIO. CONTRIBUINTE INDIVIDUAL. CONTRIBUIÇÕES. RECOLHIMENTO. RESPONSABILIDADE. EMPRESA OPTANTE DO SIMPLES NACIONAL. LC 123/2006. CONTRIBUIÇÃO PATRONAL. DIVERGÊNCIA. INCIDENTE. PROVIMENTO. ",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI",
+            "start": 0,
+            "end": 47,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "DIREITO PREVIDENCIÁRIO",
+            "start": 49,
+            "end": 71,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "APOSENTADORIA POR IDADE",
+            "start": 73,
+            "end": 96,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "SEGURADO OBRIGATÓRIO",
+            "start": 98,
+            "end": 118,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "CONTRIBUINTE INDIVIDUAL",
+            "start": 120,
+            "end": 143,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "CONTRIBUIÇÕES",
+            "start": 145,
+            "end": 158,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "RECOLHIMENTO",
+            "start": 160,
+            "end": 172,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "RESPONSABILIDADE",
+            "start": 174,
+            "end": 190,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "EMPRESA OPTANTE DO SIMPLES NACIONAL",
+            "start": 192,
+            "end": 227,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "LC 123/2006",
+            "start": 229,
+            "end": 240,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "CONTRIBUIÇÃO PATRONAL",
+            "start": 242,
+            "end": 263,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "DIVERGÊNCIA",
+            "start": 265,
+            "end": 276,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INCIDENTE. PROVIMENTO",
+            "start": 278,
+            "end": 299,
+            "type": "GRANTED_TO_REVOKE"
+        }
+    ]
+}

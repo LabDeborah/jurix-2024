@@ -1,0 +1,59 @@
+{
+    "source": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. DIREITO PREVIDENCIÁRIO. PENSÃO POR MORTE. MENOR SOB GUARDA. QUALIDADE DE DEPENDENTE. EC 103/2019.  LEI 8.213/1991. ACÓRDÃO RECORRIDO. OMISSÃO RELEVANTE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL . DIVERGÊNCIA. INVIABILIDADE. ANULAÇÃO.  A TNU tem entendido que, nos casos em que a omissão do acórdão da turma recursal impede a demonstração da divergência de interpretação de lei, existe vício insanável, que leva à anulação do acórdão",
+    "items": [
+        {
+            "selected-text": "PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI",
+            "start": 0,
+            "end": 47,
+            "type": "TYPE_OF_APPEAL"
+        },
+        {
+            "selected-text": "DIREITO PREVIDENCIÁRIO",
+            "start": 49,
+            "end": 71,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "PENSÃO POR MORTE",
+            "start": 73,
+            "end": 89,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "MENOR SOB GUARDA",
+            "start": 91,
+            "end": 107,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "QUALIDADE DE DEPENDENTE",
+            "start": 109,
+            "end": 132,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "EC 103/2019",
+            "start": 134,
+            "end": 145,
+            "type": "SUBJECT"
+        },
+        {
+            "selected-text": "DIVERGÊNCIA",
+            "start": 240,
+            "end": 251,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "INVIABILIDADE",
+            "start": 253,
+            "end": 266,
+            "type": "RATIO_DECIDENDI"
+        },
+        {
+            "selected-text": "ANULAÇÃO",
+            "start": 268,
+            "end": 276,
+            "type": "GRANTED_TO_REVOKE"
+        }
+    ]
+}
