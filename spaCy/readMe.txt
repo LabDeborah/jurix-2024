@@ -1,3 +1,5 @@
+We used seed "6789" for reproducibility.
+
 First Step:
 Use requiriments.yml to install all necessary libraries. We used anaconda for managing packages.
 
