@@ -14,4 +14,6 @@ Fourth Step:
 Run command: python -m spacy train config.cfg --output ./output --paths.train ./train.spacy --paths.dev ./dev.spacy
 
 if error:
-	-python -m spacy download pt_core_news_lg
+	python -m spacy download pt_core_news_lg 
+and
+	pip install spacy-lookups-data
