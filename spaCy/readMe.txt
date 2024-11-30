@@ -3,11 +3,14 @@ We used seed "6789" for reproducibility.
 First Step:
 Use requiriments.yml to install all necessary libraries. We used anaconda for managing packages.
 
-(In the spaCy directory):
 Second Step:
+Move ./Train to ./dataset, so you will end up with ./dataset/Train
+
+(In the spaCy directory):
+Third Step:
 Run command: preprocess.py
 
-Third Step:
+Fourth Step:
 Run command: python -m spacy train config.cfg --output ./output --paths.train ./train.spacy --paths.dev ./dev.spacy
 
 if error:
